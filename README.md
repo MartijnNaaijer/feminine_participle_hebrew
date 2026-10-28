@@ -82,4 +82,4 @@ All hand coding was done by Claude. A second Claude pass shows that the coding i
 
 ## License
 
-The scripts and data in this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0); see `LICENSE`. This does not cover the external sources listed above, which keep their own licenses.
+The scripts and data in this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0); see `LICENSE`. This does not cover the external sources listed above, which keep their own licenses. The one exception within this repository is `data/hexapla_fsg.csv`: it contains readings from the Göttingen Hexapla Database and is therefore licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
