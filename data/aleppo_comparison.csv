@@ -1,0 +1,795 @@
+﻿book,chapter,verse,lex,stem,ending,form_subtype,pause,aleppo_extant,L_word,verse_shift,A_word,n_candidates,L_reference,vowels_equal,accents_equal,L_accents,A_accents,L_pause,A_pause
+Genesis,1,2,RXP[,piel,T,segolate:segol-segol,minor,0,מְרַחֶ֖פֶת,0,מְרַחֶ֖פֶת,1,מְרַחֶ֖פֶת,1,1,tipeha;,tipeha;,minor,minor
+Genesis,1,21,RMF[,qal,T,segolate:segol-segol,minor,0,רֹמֶ֡שֶׂת,0,רֹמֶ֡שֶׂת,1,רֹמֶ֡שֶׂת,1,1,pazer;,pazer;,minor,minor
+Genesis,1,28,RMF[,qal,T,segolate:segol-segol,none,0,רֹמֶ֥שֶׂת,0,רֹמֶ֥שֶׂת,1,רֹמֶ֥שֶׂת,1,1,merkha;,merkha;,none,none
+Genesis,3,17,>RR[,qal,H,none,none,0,אֲרוּרָ֤ה,0,אֲרוּרָ֤ה,1,אֲרוּרָ֤ה,1,1,mahapakh;,mahapakh;,none,none
+Genesis,3,24,HPK[,hit,T,segolate:segol-segol,minor,0,מִּתְהַפֶּ֔כֶת,0,מִּתְהַפֶּ֔כֶת,1,מִּתְהַפֶּ֔כֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Genesis,15,9,CLC[,pual,T,segolate:segol-segol,minor,0,מְשֻׁלֶּ֔שֶׁת,0,מְשֻׁלֶּ֔שֶׁת,2,מְשֻׁלֶּ֔שֶׁת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Genesis,15,9,CLC[,pual,T,segolate:segol-segol,minor,0,מְשֻׁלֶּ֖שֶׁת,0,מְשֻׁלֶּ֖שֶׁת,2,מְשֻׁלֶּ֖שֶׁת,1,1,tipeha;,tipeha;,minor,minor
+Genesis,15,12,NPL[,qal,T,segolate:segol-segol,none,0,נֹפֶ֥לֶת,0,נֹפֶ֥לֶת,1,נֹפֶ֥לֶת,1,1,merkha;,merkha;,none,none
+Genesis,16,8,BRX[,qal,T,segolate:patah-patah,major,0,בֹּרַֽחַת,0,בֹּרַֽחַת׃,1,בֹּרַֽחַת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Genesis,16,11,JLD[,qal,T,Ct:patah,none,0,יֹלַ֣דְתְּ,0,יֹלַ֣דְתְּ,1,יֹלַ֣דְתְּ,1,1,munah;,munah;,none,none
+Genesis,17,19,JLD[,qal,T,segolate:segol-segol,none,0,יֹלֶ֤דֶת,0,יֹלֶ֤דֶת,1,יֹלֶ֤דֶת,1,1,mahapakh;,mahapakh;,none,none
+Genesis,18,10,CM<[,qal,T,segolate:patah-patah,minor,0,שֹׁמַ֛עַת,0,שֹׁמַ֛עַת,1,שֹׁמַ֛עַת,1,1,tevir;,tevir;,minor,minor
+Genesis,20,3,B<L[,qal,T,segolate:qibbuts-patah,none,0,בְּעֻ֥לַת,0,בְּעֻ֥לַת,1,בְּעֻ֥לַת,1,1,merkha;,merkha;,none,none
+Genesis,20,16,JKX[,nif,T,segolate:qamets-patah,major,0,נֹכָֽחַת,0,נֹכָֽחַת׃,1,נֹכָֽחַת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Genesis,24,15,JY>[,qal,T,Vt:sere,minor,0,יֹצֵ֗את,0,יֹצֵ֗את,1,יֹצֵ֗את,1,1,revia;,revia;,minor,minor
+Genesis,24,43,JY>[,qal,T,Vt:sere,none,0,יֹּצֵ֣את,0,יֹּצֵ֣את,1,יֹּצֵ֣את,1,1,munah;,munah;,none,none
+Genesis,24,45,JY>[,qal,T,Vt:sere,minor,0,יֹצֵאת֙,0,יֹצֵאת֙,1,יֹצֵאת֙,1,1,pashta;,pashta;,minor,minor
+Genesis,25,26,>XZ[,qal,T,segolate:segol-segol,minor,0,אֹחֶ֨זֶת֙,0,אֹחֶ֙זֶת֙,1,אֹחֶ֨זֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Genesis,25,28,>HB[,qal,T,segolate:segol-segol,none,0,אֹהֶ֥בֶת,0,אֹהֶ֥בֶת,1,אֹהֶ֥בֶת,1,1,merkha;,merkha;,none,none
+Genesis,27,5,CM<[,qal,T,segolate:patah-patah,minor,0,שֹׁמַ֔עַת,0,שֹׁמַ֔עַת,1,שֹׁמַ֔עַת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Genesis,27,8,YWH[,piel,H,patah,none,0,מְצַוָּ֥ה,0,מְצַוָּ֥ה,1,מְצַוָּ֥ה,1,1,merkha;,merkha;,none,none
+Genesis,29,6,BW>[,qal,H,qamets,minor,0,בָּאָ֖ה,0,בָּאָ֖ה,1,בָּאָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Genesis,29,9,R<H[,qal,H,holam,minor,0,רֹעָ֖ה,0,רֹעָ֖ה,1,רֹעָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Genesis,29,31,FN>[,qal,H,none,none,0,שְׂנוּאָ֣ה,0,שְׂנוּאָ֣ה,1,שְׂנוּאָ֣ה,1,1,munah;,munah;,none,none
+Genesis,29,33,FN>[,qal,H,none,none,0,שְׂנוּאָ֣ה,0,שְׂנוּאָ֣ה,1,שְׂנוּאָ֣ה,1,1,munah;,munah;,none,none
+Genesis,30,1,MWT[,qal,H,sere,none,0,מֵתָ֥ה,0,מֵתָ֥ה,1,מֵתָ֥ה,1,1,merkha;,merkha;,none,none
+Genesis,31,39,GNB[,qal,other,G.:NUB:TIJ,none,0,גְּנֻֽבְתִ֣י,0,גְּנֻֽבְתִ֣י,2,גְּנֻֽבְתִ֣י,1,1,hebrew point meteg;munah;,hebrew point meteg;munah;,none,none
+Genesis,31,39,GNB[,qal,other,G:NUB:TIJ,minor,0,גְנֻֽבְתִ֖י,0,גְנֻֽבְתִ֖י,2,גְנֻֽבְתִ֖י,1,1,hebrew point meteg;tipeha;,hebrew point meteg;tipeha;,minor,minor
+Genesis,32,19,CLX[,qal,H,none,minor,0,שְׁלוּחָ֔ה,0,שְׁלוּחָ֔ה,1,שְׁלוּחָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Genesis,32,21,HLK[,qal,T,segolate:segol-segol,none,0,הֹלֶ֣כֶת,0,הֹלֶ֣כֶת,1,הֹלֶ֣כֶת,1,1,munah;,munah;,none,none
+Genesis,34,31,ZNH[,qal,H,none,minor,0,זֹונָ֕ה,0,זוֹנָ֕ה,1,זֹונָ֕ה,1,1,zaqef gadol;,zaqef gadol;,minor,minor
+Genesis,35,17,JLD[,piel,T,segolate:segol-segol,minor,0,מְיַלֶּ֨דֶת֙,0,מְיַלֶּ֙דֶת֙,1,מְיַלֶּ֨דֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Genesis,37,25,BW>[,qal,H,qamets,minor,0,בָּאָ֖ה,0,בָּאָ֖ה,1,בָּאָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Genesis,38,15,ZNH[,qal,H,none,major,0,זֹונָ֑ה,0,זוֹנָ֑ה,1,זֹונָ֑ה,1,1,etnahta;,etnahta;,major,major
+Genesis,38,25,JY>[,hof,T,Vt:sere,minor,0,מוּצֵ֗את,0,מוּצֵ֗את,1,מוּצֵ֗את,1,1,revia;,revia;,minor,minor
+Genesis,38,28,JLD[,piel,T,segolate:segol-segol,minor,0,מְיַלֶּ֗דֶת,0,מְיַלֶּ֗דֶת,1,מְיַלֶּ֗דֶת,1,1,revia;,revia;,minor,minor
+Genesis,40,10,PRX[,qal,T,segolate:patah-patah,minor,0,פֹרַ֨חַת֙,0,פֹרַ֙חַת֙,1,פֹרַ֨חַת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Genesis,44,30,QCR[,qal,H,none,none,0,קְשׁוּרָ֥ה,0,קְשׁוּרָ֥ה,1,קְשׁוּרָ֥ה,1,1,merkha;,merkha;,none,none
+Genesis,46,26,BW>[,qal,H,qamets,none,0,בָּאָ֨ה,0,בָּאָ֨ה,1,בָּאָ֨ה,1,1,qadma;,qadma;,none,none
+Genesis,49,21,CLX[,qal,H,qibbuts,major,0,שְׁלֻחָ֑ה,0,שְׁלֻחָ֑ה,1,שְׁלֻחָ֑ה,1,1,etnahta;,etnahta;,major,major
+Genesis,49,25,RBY[,qal,T,segolate:segol-segol,none,0,רֹבֶ֣צֶת,0,רֹבֶ֣צֶת,1,רֹבֶ֣צֶת,1,1,munah;,munah;,none,none
+Exodus,1,19,JLD[,piel,T,segolate:segol-segol,minor,0,מְיַלֶּ֖דֶת,0,מְיַלֶּ֖דֶת,2,מְיַלֶּ֖דֶת,1,1,tipeha;,tipeha;,minor,minor
+Exodus,3,8,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Exodus,3,17,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Exodus,3,22,GWR[,qal,T,segolate:qamets-patah,none,0,גָּרַ֣ת,0,גָּרַ֣ת,1,גָּרַ֣ת,1,1,munah;,munah;,none,none
+Exodus,4,6,YR<[,pual,T,segolate:patah-patah,none,0,מְצֹרַ֥עַת,0,מְצֹרַ֥עַת,1,מְצֹרַ֥עַת,1,1,merkha;,merkha;,none,none
+Exodus,6,6,NVH[,qal,H,none,minor,0,נְטוּיָ֔ה,0,נְטוּיָ֔ה,1,נְטוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Exodus,9,3,HJH[,qal,H,none,minor,0,הֹויָ֗ה,0,הוֹיָ֗ה,1,הֹויָ֗ה,1,1,revia;,revia;,minor,minor
+Exodus,9,24,LQX[,hit,T,segolate:patah-patah,minor,0,מִתְלַקַּ֖חַת,0,מִתְלַקַּ֖חַת,1,מִתְלַקַּ֖חַת,1,1,tipeha;,tipeha;,minor,minor
+Exodus,10,5,C>R[,nif,T,segolate:segol-segol,none,0,נִּשְׁאֶ֤רֶת,0,נִּשְׁאֶ֤רֶת,1,נִּשְׁאֶ֤רֶת,1,1,mahapakh;,mahapakh;,none,none
+Exodus,12,19,XMY[,hif,T,segolate:segol-segol,minor,0,מַחְמֶ֗צֶת,0,מַחְמֶ֗צֶת,1,מַחְמֶ֗צֶת,1,1,revia;,revia;,minor,minor
+Exodus,12,20,XMY[,hif,T,segolate:segol-segol,minor,0,מַחְמֶ֖צֶת,0,מַחְמֶ֖צֶת,1,מַחְמֶ֖צֶת,1,1,tipeha;,tipeha;,minor,minor
+Exodus,13,5,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Exodus,14,8,RWM[,qal,H,qamets,major,0,רָמָֽה,0,רָמָֽה׃,1,רָמָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Exodus,16,35,JCB[,nif,T,segolate:qamets-segol,major,0,נֹושָׁ֑בֶת,0,נוֹשָׁ֑בֶת,1,נֹושָׁ֑בֶת,1,1,etnahta;,etnahta;,major,major
+Exodus,22,17,KCP[,piel,H,sere,minor,0,מְכַשֵּׁפָ֖ה,0,מְכַשֵּׁפָ֖ה,1,מְכַשֵּׁפָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Exodus,23,26,CKL[,piel,H,sere,none,0,מְשַׁכֵּלָ֥ה,0,מְשַׁכֵּלָ֥ה,1,מְשַׁכֵּלָ֥ה,1,1,merkha;,merkha;,none,none
+Exodus,24,17,>KL[,qal,T,segolate:segol-segol,minor,0,אֹכֶ֖לֶת,0,אֹכֶ֖לֶת,1,אֹכֶ֖לֶת,1,1,tipeha;,tipeha;,minor,minor
+Exodus,26,4,XBRT/,qal,T,segolate:qamets-segol,major,0,חֹבָ֑רֶת,0,חֹבָ֑רֶת,2,חֹבָ֑רֶת,1,1,etnahta;,etnahta;,major,major
+Exodus,26,10,XBRT/,qal,T,segolate:qamets-segol,major,0,חֹבָ֑רֶת,0,חֹבָ֑רֶת,2,חֹבָ֑רֶת,1,1,etnahta;,etnahta;,major,major
+Exodus,26,10,XBRT/,qal,T,segolate:segol-segol,minor,0,חֹבֶ֖רֶת,0,חֹבֶ֖רֶת,2,חֹבֶ֖רֶת,1,1,tipeha;,tipeha;,minor,minor
+Exodus,26,12,<DP[,qal,T,segolate:segol-segol,minor,0,עֹדֶ֔פֶת,0,עֹדֶ֔פֶת,1,עֹדֶ֔פֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Exodus,33,3,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Exodus,36,17,XBRT/,qal,T,segolate:segol-segol,minor,0,חֹבֶ֖רֶת,0,חֹבֶ֖רֶת,2,חֹבֶ֖רֶת,1,1,tipeha;,tipeha;,minor,minor
+Leviticus,2,3,JTR[,nif,T,segolate:segol-segol,minor,0,נֹּותֶ֨רֶת֙,0,נּוֹתֶ֙רֶת֙,1,נֹּותֶ֨רֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Leviticus,2,5,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Leviticus,2,10,JTR[,nif,T,segolate:segol-segol,minor,0,נֹּותֶ֨רֶת֙,0,נּוֹתֶ֙רֶת֙,1,נֹּותֶ֨רֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Leviticus,6,9,JTR[,nif,T,segolate:segol-segol,none,0,נֹּותֶ֣רֶת,0,נּוֹתֶ֣רֶת,1,נֹּותֶ֣רֶת,1,1,munah;,munah;,none,none
+Leviticus,6,14,RBK[,hof,T,segolate:segol-segol,none,0,מֻרְבֶּ֣כֶת,0,מֻרְבֶּ֣כֶת,1,מֻרְבֶּ֣כֶת,1,1,munah;,munah;,none,none
+Leviticus,7,9,<FH[,nif,H,hatef patah,none,0,נַעֲשָׂ֥ה,0,נַעֲשָׂ֥ה,1,נַעֲשָׂ֥ה,1,1,merkha;,merkha;,none,none
+Leviticus,7,10,BLL[,qal,H,none,none,0,בְלוּלָֽה,0,בְלוּלָֽה,1,בְלוּלָֽה,1,1,hebrew point meteg;,hebrew point meteg;,none,none
+Leviticus,7,12,RBK[,hof,T,segolate:segol-segol,minor,0,מֻרְבֶּ֔כֶת,0,מֻרְבֶּ֔כֶת,1,מֻרְבֶּ֔כֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,7,18,>KL[,qal,T,segolate:segol-segol,none,0,אֹכֶ֥לֶת,0,אֹכֶ֥לֶת,1,אֹכֶ֥לֶת,1,1,merkha;,merkha;,none,none
+Leviticus,7,25,>KL[,qal,T,segolate:segol-segol,minor,0,אֹכֶ֖לֶת,0,אֹכֶ֖לֶת,1,אֹכֶ֖לֶת,1,1,tipeha;,tipeha;,minor,minor
+Leviticus,9,4,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Leviticus,10,12,JTR[,nif,T,segolate:segol-segol,minor,0,נֹּותֶ֨רֶת֙,0,נּוֹתֶ֙רֶת֙,1,נֹּותֶ֨רֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Leviticus,11,3,PRS[,hif,T,segolate:segol-segol,none,0,מַפְרֶ֣סֶת,0,מַפְרֶ֣סֶת,1,מַפְרֶ֣סֶת,1,1,munah;,munah;,none,none
+Leviticus,11,3,CS<[,qal,T,segolate:patah-patah,none,0,שֹׁסַ֤עַת,0,שֹׁסַ֤עַת,1,שֹׁסַ֤עַת,1,1,mahapakh;,mahapakh;,none,none
+Leviticus,11,3,<LH[,hif,T,segolate:hatef patah-patah,none,0,מַעֲלַ֥ת,0,מַעֲלַ֥ת,1,מַעֲלַ֥ת,1,1,merkha;,merkha;,none,none
+Leviticus,11,6,<LH[,hif,T,segolate:hatef patah-patah,none,0,מַעֲלַ֤ת,0,מַעֲלַ֤ת,1,מַעֲלַ֤ת,1,1,mahapakh;,mahapakh;,none,none
+Leviticus,11,26,PRS[,hif,T,segolate:segol-segol,none,0,מַפְרֶ֨סֶת,0,מַפְרֶ֨סֶת,1,מַפְרֶ֨סֶת,1,1,qadma;,qadma;,none,none
+Leviticus,11,26,CS<[,qal,T,segolate:patah-patah,minor,0,שֹׁסַ֗עַת,0,שֹׁסַ֗עַת,1,שֹׁסַ֗עַת,1,1,revia;,revia;,minor,minor
+Leviticus,11,26,<LH[,hif,H,hatef patah,minor,0,מַעֲלָ֔ה,0,מַעֲלָ֔ה,1,מַעֲלָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,11,27,HLK[,qal,T,segolate:segol-segol,none,0,הֹלֶ֣כֶת,0,הֹלֶ֣כֶת,1,הֹלֶ֣כֶת,1,1,munah;,munah;,none,none
+Leviticus,11,46,RMF[,qal,T,segolate:segol-segol,minor,0,רֹמֶ֖שֶׂת,0,רֹמֶ֖שֶׂת,1,רֹמֶ֖שֶׂת,1,1,tipeha;,tipeha;,minor,minor
+Leviticus,11,46,CRY[,qal,T,segolate:segol-segol,none,0,שֹּׁרֶ֥צֶת,0,שֹּׁרֶ֥צֶת,1,שֹּׁרֶ֥צֶת,1,1,merkha;,merkha;,none,none
+Leviticus,11,47,>KL[,nif,T,segolate:segol-segol,minor,0,נֶּאֱכֶ֔לֶת,0,נֶּאֱכֶ֔לֶת,1,נֶּאֱכֶ֔לֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,12,7,JLD[,qal,T,segolate:segol-segol,minor,0,יֹּלֶ֔דֶת,0,יֹּלֶ֔דֶת,1,יֹּלֶ֔דֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,13,11,JCN[,nif,T,segolate:segol-segol,none,0,נֹושֶׁ֤נֶת,0,נוֹשֶׁ֤נֶת,1,נֹושֶׁ֤נֶת,1,1,mahapakh;,mahapakh;,none,none
+Leviticus,13,42,PRX[,qal,T,segolate:patah-patah,minor,0,פֹּרַ֨חַת֙,0,פֹּרַ֙חַת֙,1,פֹּרַ֨חַת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Leviticus,13,51,M>R[,hif,T,segolate:segol-segol,minor,0,מַמְאֶ֛רֶת,0,מַמְאֶ֛רֶת,1,מַמְאֶ֛רֶת,1,1,tevir;,tevir;,minor,minor
+Leviticus,13,52,M>R[,hif,T,segolate:segol-segol,minor,0,מַמְאֶ֨רֶת֙,0,מַמְאֶ֙רֶת֙,1,מַמְאֶ֨רֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Leviticus,13,57,PRX[,qal,T,segolate:patah-patah,minor,0,פֹּרַ֖חַת,0,פֹּרַ֖חַת,1,פֹּרַ֖חַת,1,1,tipeha;,tipeha;,minor,minor
+Leviticus,14,6,CXV[,qal,H,qibbuts,minor,0,שְּׁחֻטָ֔ה,0,שְּׁחֻטָ֔ה,1,שְּׁחֻטָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,14,10,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Leviticus,14,21,NFG[,hif,T,segolate:segol-segol,minor,0,מַשֶּׂגֶת֒,0,מַשֶּׂ֒גֶת֒,1,מַשֶּׂגֶת֒,1,0,segol;,segol;segol;,minor,minor
+Leviticus,14,44,M>R[,hif,T,segolate:segol-segol,none,0,מַמְאֶ֥רֶת,0,מַמְאֶ֥רֶת,1,מַמְאֶ֥רֶת,1,1,merkha;,merkha;,none,none
+Leviticus,14,51,CXV[,qal,H,none,minor,0,שְּׁחוּטָ֔ה,0,שְּׁחוּטָ֔ה,1,שְּׁחוּטָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,15,19,ZWB[,qal,H,qamets,minor,0,זָבָ֔ה,0,זָבָ֔ה,2,זָבָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,15,23,JCB[,qal,T,segolate:segol-segol,none,0,יֹשֶֽׁבֶת,0,יֹשֶֽׁבֶת,1,יֹשֶֽׁבֶת,1,1,hebrew point meteg;,hebrew point meteg;,none,none
+Leviticus,17,10,>KL[,qal,T,segolate:segol-segol,none,0,אֹכֶ֣לֶת,0,אֹכֶ֣לֶת,1,אֹכֶ֣לֶת,1,1,munah;,munah;,none,none
+Leviticus,19,20,XRP=[,nif,T,segolate:segol-segol,none,0,נֶחֱרֶ֣פֶת,0,נֶחֱרֶ֣פֶת,1,נֶחֱרֶ֣פֶת,1,1,munah;,munah;,none,none
+Leviticus,20,10,N>P[,qal,T,segolate:qamets-segol,major,0,נֹּאָֽפֶת,0,נֹּאָֽפֶת׃,1,נֹּאָֽפֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Leviticus,20,24,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Leviticus,21,7,ZNH[,qal,H,holam,none,0,זֹנָ֤ה,0,זֹנָ֤ה,1,זֹנָ֤ה,1,1,mahapakh;,mahapakh;,none,none
+Leviticus,21,7,GRC[,qal,H,none,none,0,גְּרוּשָׁ֥ה,0,גְּרוּשָׁ֥ה,1,גְּרוּשָׁ֥ה,1,1,merkha;,merkha;,none,none
+Leviticus,21,9,XLL[,piel,T,segolate:segol-segol,minor,0,מְחַלֶּ֔לֶת,0,מְחַלֶּ֔לֶת,1,מְחַלֶּ֔לֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,21,14,GRC[,qal,H,none,minor,0,גְרוּשָׁה֙,0,גְרוּשָׁה֙,1,גְרוּשָׁה֙,1,1,pashta;,pashta;,minor,minor
+Leviticus,21,14,ZNH[,qal,H,holam,minor,0,זֹנָ֔ה,0,זֹנָ֔ה,1,זֹנָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Leviticus,22,13,GRC[,qal,H,none,minor,0,גְרוּשָׁ֗ה,0,גְרוּשָׁ֗ה,1,גְרוּשָׁ֗ה,1,1,revia;,revia;,minor,minor
+Leviticus,23,13,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Leviticus,26,25,NQM[,qal,T,segolate:segol-segol,minor,0,נֹקֶ֨מֶת֙,0,נֹקֶ֙מֶת֙,1,נֹקֶ֨מֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Numbers,5,15,ZKR[,hif,T,segolate:segol-segol,none,0,מַזְכֶּ֥רֶת,0,מַזְכֶּ֥רֶת,1,מַזְכֶּ֥רֶת,1,1,merkha;,merkha;,none,none
+Numbers,5,21,NPL[,qal,T,segolate:segol-segol,minor,0,נֹפֶ֔לֶת,0,נֹפֶ֔לֶת,1,נֹפֶ֔לֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Numbers,7,13,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,14,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,19,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,20,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,25,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,26,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,31,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,32,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,37,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,38,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,43,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,44,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,49,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,50,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,55,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,56,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,61,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,62,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,67,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,68,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,73,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,74,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,79,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,7,80,ML>[,qal,H,sere,none,0,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,8,8,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,12,10,YR<[,pual,T,segolate:patah-patah,none,0,מְצֹרַ֣עַת,0,מְצֹרַ֣עַת,2,מְצֹרַ֣עַת,1,1,munah;,munah;,none,none
+Numbers,12,10,YR<[,pual,T,segolate:qamets-patah,major,0,מְצֹרָֽעַת,0,מְצֹרָֽעַת׃,2,מְצֹרָֽעַת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Numbers,13,27,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֨ת,0,זָבַ֨ת,1,זָבַ֨ת,1,1,qadma;,qadma;,none,none
+Numbers,13,32,>KL[,qal,T,segolate:segol-segol,none,0,אֹכֶ֤לֶת,0,אֹכֶ֤לֶת,1,אֹכֶ֤לֶת,1,1,mahapakh;,mahapakh;,none,none
+Numbers,14,8,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Numbers,15,6,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,15,28,CGG[,qal,T,segolate:segol-segol,minor,0,שֹּׁגֶ֛גֶת,0,שֹּׁגֶ֛גֶת,1,שֹּׁגֶ֛גֶת,1,1,tevir;,tevir;,minor,minor
+Numbers,15,30,RWM[,qal,H,qamets,minor,0,רָמָ֗ה,0,רָמָ֗ה,1,רָמָ֗ה,1,1,revia;,revia;,minor,minor
+Numbers,16,13,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֤ת,0,זָבַ֤ת,1,זָבַ֤ת,1,1,mahapakh;,mahapakh;,none,none
+Numbers,16,14,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֨ת,0,זָבַ֨ת,1,זָבַ֨ת,1,1,qadma;,qadma;,none,none
+Numbers,19,22,NG<[,qal,T,segolate:patah-patah,minor,0,נֹּגַ֖עַת,0,נֹּגַ֖עַת,1,נֹּגַ֖עַת,1,1,tipeha;,tipeha;,minor,minor
+Numbers,21,20,CQP[,nif,H,qamets,minor,0,נִשְׁקָ֖פָה,0,נִשְׁקָ֖פָה,1,נִשְׁקָ֖פָה,1,1,tipeha;,tipeha;,minor,minor
+Numbers,22,23,CLP[,qal,H,none,minor,0,שְׁלוּפָה֙,0,שְׁלוּפָה֙,1,שְׁלוּפָה֙,1,1,pashta;,pashta;,minor,minor
+Numbers,22,31,CLP[,qal,H,qibbuts,minor,0,שְׁלֻפָ֖ה,0,שְׁלֻפָ֖ה,1,שְׁלֻפָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Numbers,25,15,NKH[,hof,H,qibbuts,minor,0,מֻּכָּ֛ה,0,מֻּכָּ֛ה,1,מֻּכָּ֛ה,1,1,tevir;,tevir;,minor,minor
+Numbers,25,18,NKH[,hof,H,qibbuts,none,0,מֻּכָּ֥ה,0,מֻּכָּ֥ה,1,מֻּכָּ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,28,5,BLL[,qal,H,none,minor,0,בְּלוּלָ֛ה,0,בְּלוּלָ֛ה,1,בְּלוּלָ֛ה,1,1,tevir;,tevir;,minor,minor
+Numbers,28,6,<FH[,qal,H,qibbuts,minor,0,עֲשֻׂיָה֙,0,עֲשֻׂיָה֙,1,עֲשֻׂיָה֙,1,1,pashta;,pashta;,minor,minor
+Numbers,28,9,BLL[,qal,H,none,none,0,בְּלוּלָ֥ה,0,בְּלוּלָ֥ה,1,בְּלוּלָ֥ה,1,1,merkha;,merkha;,none,none
+Numbers,28,12,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,2,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,28,12,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,2,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,28,13,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,28,20,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,28,28,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,29,3,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,29,9,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,29,14,BLL[,qal,H,none,none,0,בְּלוּלָ֣ה,0,בְּלוּלָ֣ה,1,בְּלוּלָ֣ה,1,1,munah;,munah;,none,none
+Numbers,30,10,GRC[,qal,H,none,major,0,גְרוּשָׁ֑ה,0,גְרוּשָׁ֑ה,1,גְרוּשָׁ֑ה,1,1,etnahta;,etnahta;,major,major
+Numbers,31,17,JD<[,qal,T,segolate:patah-patah,none,0,יֹדַ֥עַת,0,יֹדַ֥עַת,1,יֹדַ֥עַת,1,1,merkha;,merkha;,none,none
+Numbers,33,3,RWM[,qal,H,qamets,minor,0,רָמָ֔ה,0,רָמָ֔ה,1,רָמָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Numbers,36,8,JRC[,qal,T,segolate:segol-segol,none,0,יֹרֶ֣שֶׁת,0,יֹרֶ֣שֶׁת,1,יֹרֶ֣שֶׁת,1,1,munah;,munah;,none,none
+Deuteronomy,4,24,>KL[,qal,H,shewa,minor,0,אֹכְלָ֖ה,0,אֹכְלָ֖ה,1,אֹכְלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Deuteronomy,4,34,NVH[,qal,H,none,minor,0,נְטוּיָ֔ה,0,נְטוּיָ֔ה,1,נְטוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Deuteronomy,5,15,NVH[,qal,H,none,major,0,נְטוּיָ֑֔ה,1,נְטוּיָ֑֔ה,1,נְטוּיָ֑֔ה,1,1,etnahta;zaqef qatan;,etnahta;zaqef qatan;,major,major
+Deuteronomy,6,3,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Deuteronomy,7,19,NVH[,qal,H,none,minor,0,נְּטוּיָ֔ה,0,נְּטוּיָ֔ה,1,נְּטוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Deuteronomy,9,3,>KL[,qal,H,shewa,minor,0,אֹֽכְלָ֔ה,0,אֹֽכְלָ֔ה,1,אֹֽכְלָ֔ה,1,1,hebrew point meteg;zaqef qatan;,hebrew point meteg;zaqef qatan;,minor,minor
+Deuteronomy,9,29,NVH[,qal,H,none,major,0,נְּטוּיָֽה,0,נְּטוּיָֽה׃,1,נְּטוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Deuteronomy,11,2,NVH[,qal,H,none,major,0,נְּטוּיָֽה,0,נְּטוּיָֽה׃,1,נְּטוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Deuteronomy,11,9,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Deuteronomy,14,6,PRS[,hif,T,segolate:segol-segol,none,0,מַפְרֶ֣סֶת,0,מַפְרֶ֣סֶת,1,מַפְרֶ֣סֶת,1,1,munah;,munah;,none,none
+Deuteronomy,14,6,CS<[,qal,T,segolate:patah-patah,none,0,שֹׁסַ֤עַת,0,שֹׁסַ֤עַת,1,שֹׁסַ֤עַת,1,1,mahapakh;,mahapakh;,none,none
+Deuteronomy,14,6,<LH[,hif,T,segolate:hatef patah-patah,none,0,מַעֲלַ֥ת,0,מַעֲלַ֥ת,1,מַעֲלַ֥ת,1,1,merkha;,merkha;,none,none
+Deuteronomy,14,7,CS<[,qal,H,none,major,0,שְּׁסוּעָ֑ה,0,שְּׁסוּעָ֑ה,1,שְּׁסוּעָ֑ה,1,1,etnahta;,etnahta;,major,major
+Deuteronomy,20,20,<FH[,qal,H,holam,none,0,עֹשָׂ֧ה,0,עֹשָׂ֧ה,1,עֹשָׂ֧ה,1,1,darga;,darga;,none,none
+Deuteronomy,21,6,<RP=[,qal,H,none,none,0,עֲרוּפָ֥ה,0,עֲרוּפָ֥ה,1,עֲרוּפָ֥ה,1,1,merkha;,merkha;,none,none
+Deuteronomy,21,15,>HB[,qal,H,none,minor,0,אֲהוּבָה֙,0,אֲהוּבָה֙,2,אֲהוּבָה֙,1,1,pashta;,pashta;,minor,minor
+Deuteronomy,21,15,FN>[,qal,H,none,minor,0,שְׂנוּאָ֔ה,0,שְׂנוּאָ֔ה,2,שְׂנוּאָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Deuteronomy,21,15,>HB[,qal,H,none,minor,0,אֲהוּבָ֖ה,0,אֲהוּבָ֖ה,2,אֲהוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Deuteronomy,21,15,FN>[,qal,H,none,major,0,שְּׂנוּאָ֑ה,0,שְּׂנוּאָ֑ה,2,שְּׂנוּאָ֑ה,1,1,etnahta;,etnahta;,major,major
+Deuteronomy,21,16,>HB[,qal,H,none,minor,0,אֲהוּבָ֔ה,0,אֲהוּבָ֔ה,1,אֲהוּבָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Deuteronomy,21,16,FN>[,qal,H,none,minor,0,שְּׂנוּאָ֖ה,0,שְּׂנוּאָ֖ה,1,שְּׂנוּאָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Deuteronomy,21,17,FN>[,qal,H,none,minor,0,שְּׂנוּאָ֜ה,0,שְּׂנוּאָ֜ה,1,שְּׂנוּאָ֜ה,1,1,geresh;,geresh;,minor,minor
+Deuteronomy,22,6,RBY[,qal,T,segolate:segol-segol,minor,0,רֹבֶ֨צֶת֙,0,רֹבֶ֙צֶת֙,1,רֹבֶ֨צֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Deuteronomy,22,22,B<L[,qal,T,segolate:qibbuts-patah,none,0,בְעֻֽלַת,0,בְעֻֽלַת,1,בְעֻֽלַת,1,1,hebrew point meteg;,hebrew point meteg;,none,none
+Deuteronomy,22,23,>RF[,pual,H,qamets,minor,0,מְאֹרָשָׂ֖ה,0,מְאֹרָשָׂ֖ה,1,מְאֹרָשָׂ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Deuteronomy,22,25,>RF[,pual,H,qamets,minor,0,מְאֹ֣רָשָׂ֔ה,0,מְאֹ֣רָשָׂ֔ה,1,מְאֹ֣רָשָׂ֔ה,1,1,munah;zaqef qatan;,munah;zaqef qatan;,minor,minor
+Deuteronomy,22,27,>RF[,pual,H,qamets,minor,0,מְאֹ֣רָשָׂ֔ה,0,מְאֹ֣רָשָׂ֔ה,1,מְאֹ֣רָשָׂ֔ה,1,1,munah;zaqef qatan;,munah;zaqef qatan;,minor,minor
+Deuteronomy,23,19,ZNH[,qal,H,none,minor,0,זֹונָ֜ה,0,זוֹנָ֜ה,1,זֹונָ֜ה,1,1,geresh;,geresh;,minor,minor
+Deuteronomy,26,8,NVH[,qal,H,none,minor,0,נְטוּיָ֔ה,0,נְטוּיָ֔ה,1,נְטוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Deuteronomy,26,9,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Deuteronomy,26,15,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Deuteronomy,27,3,ZWB[,qal,T,segolate:qamets-patah,none,0,זָבַ֤ת,0,זָבַ֤ת,1,זָבַ֤ת,1,1,mahapakh;,mahapakh;,none,none
+Deuteronomy,27,23,XTN[,qal,suffix,,major,0,חֹֽתַנְתֹּ֑ו,0,חֹֽתַנְתּ֑וֹ,1,חֹֽתַנְתֹּ֑ו,1,1,hebrew point meteg;etnahta;,hebrew point meteg;etnahta;,major,major
+Deuteronomy,28,57,JY>[,qal,T,other:none-sere,none,1,יֹּוצֵ֣ת,0,יּוֹצֵ֣ת,1,יֹּוצֵ֣ת,1,1,munah;,munah;,none,none
+Deuteronomy,29,19,KTB[,qal,H,none,minor,1,כְּתוּבָ֖ה,0,כְּתוּבָ֖ה,1,כְּתוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Deuteronomy,29,20,KTB[,qal,H,none,minor,1,כְּתוּבָ֕ה,0,כְּתוּבָ֕ה,1,כְּתוּבָ֕ה,1,1,zaqef gadol;,zaqef gadol;,minor,minor
+Deuteronomy,29,26,KTB[,qal,H,none,minor,1,כְּתוּבָ֖ה,0,כְּתוּבָ֖ה,1,כְּתוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Deuteronomy,30,10,KTB[,qal,H,none,minor,1,כְּתוּבָ֕ה,0,כְּתוּבָ֕ה,1,כְּתוּבָ֕ה,1,1,zaqef gadol;,zaqef gadol;,minor,minor
+Deuteronomy,31,20,ZWB[,qal,T,segolate:qamets-patah,none,1,זָבַ֤ת,0,זָבַ֤ת,1,זָבַ֤ת,1,1,mahapakh;,mahapakh;,none,none
+Deuteronomy,33,13,BRK[,pual,T,segolate:segol-segol,none,1,מְבֹרֶ֥כֶת,0,מְבֹרֶ֥כֶת,1,מְבֹרֶ֥כֶת,1,1,merkha;,merkha;,none,none
+Deuteronomy,33,13,RBY[,qal,T,segolate:segol-segol,none,1,רֹבֶ֥צֶת,0,רֹבֶ֥צֶת,1,רֹבֶ֥צֶת,1,1,merkha;,merkha;,none,none
+Joshua,2,1,ZNH[,qal,H,none,minor,1,זֹונָ֛ה,0,זוֹנָ֛ה,1,זֹונָ֛ה,1,1,tevir;,tevir;,minor,minor
+Joshua,2,15,JCB[,qal,T,segolate:qamets-segol,major,1,יֹושָֽׁבֶת,0,יוֹשָֽׁבֶת׃,1,יֹושָֽׁבֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Joshua,5,6,ZWB[,qal,T,segolate:qamets-patah,none,1,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Joshua,5,13,CLP[,qal,H,none,minor,1,שְׁלוּפָ֖ה,0,שְׁלוּפָ֖ה,1,שְׁלוּפָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Joshua,6,1,SGR[,qal,T,segolate:segol-segol,none,1,סֹגֶ֣רֶת,0,סֹגֶ֣רֶת,2,סֹגֶ֣רֶת,1,1,munah;,munah;,none,none
+Joshua,6,1,SGR[,pual,T,segolate:segol-segol,minor,1,מְסֻגֶּ֔רֶת,0,מְסֻגֶּ֔רֶת,1,מְסֻגֶּ֔רֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Joshua,6,17,ZNH[,qal,H,none,minor,1,זֹּונָ֜ה,0,זּוֹנָ֜ה,1,זֹּונָ֜ה,1,1,geresh;,geresh;,minor,minor
+Joshua,6,22,ZNH[,qal,H,none,major,1,זֹּונָ֑ה,0,זּוֹנָ֑ה,1,זֹּונָ֑ה,1,1,etnahta;,etnahta;,major,major
+Joshua,6,25,ZNH[,qal,H,none,none,1,זֹּונָה,0,זּוֹנָ֠ה,1,זֹּונָה,1,0,,telisha gedola;,none,minor
+Joshua,7,22,VMN[,qal,H,none,minor,1,טְמוּנָ֛ה,0,טְמוּנָ֛ה,1,טְמוּנָ֛ה,1,1,tevir;,tevir;,minor,minor
+Joshua,8,17,PTX[,qal,H,none,minor,1,פְּתוּחָ֔ה,0,פְּתוּחָ֔ה,1,פְּתוּחָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Joshua,10,13,KTB[,qal,H,none,minor,1,כְתוּבָ֖ה,0,כְתוּבָ֖ה,1,כְתוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Joshua,13,2,C>R[,nif,T,segolate:qamets-segol,major,1,נִּשְׁאָ֑רֶת,0,נִּשְׁאָ֑רֶת,1,נִּשְׁאָ֑רֶת,1,1,etnahta;,etnahta;,major,major
+Judges,4,4,CPV[,qal,H,shewa,none,1,שֹׁפְטָ֥ה,0,שֹׁפְטָ֥ה,1,שֹׁפְטָ֥ה,1,1,merkha;,merkha;,none,none
+Judges,4,5,JCB[,qal,T,segolate:segol-segol,none,1,יֹושֶׁ֨בֶת,0,יוֹשֶׁ֨בֶת,1,יֹושֶׁ֨בֶת,1,1,qadma;,qadma;,none,none
+Judges,11,1,ZNH[,qal,H,none,major,1,זֹונָ֑ה,0,זוֹנָ֑ה,1,זֹונָ֑ה,1,1,etnahta;,etnahta;,major,major
+Judges,11,34,JY>[,qal,T,Vt:sere,none,1,יֹצֵ֣את,0,יֹצֵ֣את,1,יֹצֵ֣את,1,1,munah;,munah;,none,none
+Judges,13,5,JLD[,qal,T,Ct:patah,none,1,יֹלַ֣דְתְּ,0,יֹלַ֣דְתְּ,1,יֹלַ֣דְתְּ,1,1,munah;,munah;,none,none
+Judges,13,7,JLD[,qal,T,Ct:patah,none,1,יֹלַ֣דְתְּ,0,יֹלַ֣דְתְּ,1,יֹלַ֣דְתְּ,1,1,munah;,munah;,none,none
+Judges,13,9,JCB[,qal,T,segolate:segol-segol,none,1,יֹושֶׁ֣בֶת,0,יוֹשֶׁ֣בֶת,1,יֹושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Judges,16,1,ZNH[,qal,H,none,minor,1,זֹונָ֔ה,0,זוֹנָ֔ה,1,זֹונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Judges,18,7,JCB[,qal,T,segolate:segol-segol,none,1,יֹושֶֽׁבֶת,0,יוֹשֶֽׁבֶת,1,יֹושֶֽׁבֶת,1,1,hebrew point meteg;,hebrew point meteg;,none,none
+Judges,19,27,NPL[,qal,T,segolate:segol-segol,minor,1,נֹפֶ֨לֶת֙,0,נֹפֶ֙לֶת֙,1,נֹפֶ֨לֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Judges,20,4,RYX[,nif,H,qamets,minor,1,נִּרְצָחָ֖ה,0,נִּרְצָחָ֖ה,1,נִּרְצָחָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Judges,20,31,<LH[,qal,H,holam,none,1,עֹלָ֣ה,0,עֹלָ֣ה,1,עֹלָ֣ה,1,1,munah;,munah;,none,none
+Judges,20,34,NG<[,qal,T,segolate:patah-patah,none,1,נֹגַ֥עַת,0,נֹגַ֥עַת,1,נֹגַ֥עַת,1,1,merkha;,merkha;,none,none
+Judges,21,11,JD<[,qal,T,segolate:patah-patah,none,1,יֹדַ֥עַת,0,יֹדַ֥עַת,1,יֹדַ֥עַת,1,1,merkha;,merkha;,none,none
+Judges,21,19,<LH[,qal,H,holam,none,1,עֹלָ֥ה,0,עֹלָ֥ה,1,עֹלָ֥ה,1,1,merkha;,merkha;,none,none
+1_Samuel,1,13,DBR[,piel,T,segolate:segol-segol,none,1,מְדַבֶּ֣רֶת,0,מְדַבֶּ֣רֶת,1,מְדַבֶּ֣רֶת,1,1,munah;,munah;,none,none
+1_Samuel,1,26,NYB[,nif,T,segolate:segol-segol,none,1,נִּצֶּ֤בֶת,0,נִּצֶּ֤בֶת,1,נִּצֶּ֤בֶת,1,1,mahapakh;,mahapakh;,none,none
+1_Samuel,15,9,BZH[,nif,H,shewa,none,1,נְמִבְזָ֥ה,0,נְמִבְזָ֥ה,1,נְמִבְזָ֥ה,1,1,merkha;,merkha;,none,none
+1_Samuel,18,23,QLL[,nif,H,patah,none,1,נְקַלָּ֤ה,0,נְﬞקַלָּ֤ה,2,נְקַלָּ֤ה,1,1,mahapakh;,mahapakh;,none,none
+1_Samuel,20,30,<WH[,nif,T,segolate:hatef patah-patah,minor,1,נַעֲוַ֖ת,0,נַעֲוַ֖ת,1,נַעֲוַ֖ת,1,1,tipeha;,tipeha;,minor,minor
+1_Samuel,21,6,<YR[,qal,H,qibbuts,none,1,עֲצֻֽרָה,0,עֲצֻֽרָה,1,עֲצֻֽרָה,1,1,hebrew point meteg;,hebrew point meteg;,none,none
+1_Samuel,21,10,LWV[,qal,H,none,none,1,לוּטָ֣ה,0,לוּטָ֣ה,1,לוּטָ֣ה,1,1,munah;,munah;,none,none
+1_Samuel,25,19,BW>[,qal,H,qamets,major,1,בָּאָ֑ה,0,בָּאָ֑ה,1,בָּאָ֑ה,1,1,etnahta;,etnahta;,major,major
+1_Samuel,25,20,RKB[,qal,T,segolate:segol-segol,none,1,רֹכֶ֣בֶת,0,רֹכֶ֣בֶת,1,רֹכֶ֣בֶת,1,1,munah;,munah;,none,none
+1_Samuel,25,20,JRD[,qal,T,segolate:segol-segol,minor,1,יֹרֶ֨דֶת֙,0,יֹרֶ֙דֶת֙,1,יֹרֶ֨דֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+1_Samuel,25,29,YRR[,qal,H,none,none,1,צְרוּרָ֣ה,0,צְרוּרָ֣ה,1,צְרוּרָ֣ה,1,1,munah;,munah;,none,none
+1_Samuel,25,33,BRK[,qal,H,none,none,1,בְרוּכָ֣ה,0,בְרוּכָ֣ה,1,בְרוּכָ֣ה,1,1,munah;,munah;,none,none
+1_Samuel,26,7,M<K[,qal,H,none,none,1,מְעוּכָֽה,0,מְעוּכָֽה,1,מְעוּכָֽה,1,1,hebrew point meteg;,hebrew point meteg;,none,none
+1_Samuel,30,3,FRP[,qal,H,none,minor,1,שְׂרוּפָ֖ה,0,שְׂרוּפָ֖ה,1,שְׂרוּפָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+2_Samuel,1,18,KTB[,qal,H,none,minor,1,כְתוּבָ֖ה,0,כְתוּבָ֖ה,1,כְתוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+2_Samuel,4,4,>MN[,qal,suffix,,minor,1,אֹֽמַנְתֹּו֙,0,אֹֽמַנְתּוֹ֙,1,אֹֽמַנְתֹּו֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+2_Samuel,11,2,RXY[,qal,T,segolate:segol-segol,minor,1,רֹחֶ֖צֶת,0,רֹחֶ֖צֶת,1,רֹחֶ֖צֶת,1,1,tipeha;,tipeha;,minor,minor
+2_Samuel,11,4,QDC[,hit,T,segolate:segol-segol,minor,1,מִתְקַדֶּ֖שֶׁת,0,מִתְקַדֶּ֖שֶׁת,1,מִתְקַדֶּ֖שֶׁת,1,1,tipeha;,tipeha;,minor,minor
+2_Samuel,13,20,CMM[,qal,H,sere,minor,1,שֹׁ֣מֵמָ֔ה,0,שֹׁ֣מֵמָ֔ה,1,שֹׁ֣מֵמָ֔ה,1,1,munah;zaqef qatan;,munah;zaqef qatan;,minor,minor
+2_Samuel,13,32,FJM[,qal,H,none,minor,1,שׂוּמָ֔ה,0,שׂוּמָ֔ה,1,שׂוּמָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+2_Samuel,14,2,>BL[,hit,T,segolate:segol-segol,minor,1,מִתְאַבֶּ֖לֶת,0,מִתְאַבֶּ֖לֶת,1,מִתְאַבֶּ֖לֶת,1,1,tipeha;,tipeha;,minor,minor
+2_Samuel,18,8,PWY[,nif,T,Vt:none,minor,1,נפצית,0,נָפ֖וֹצֶת,1,נָפֹ֖וצֶת,1,1,tipeha;,tipeha;,minor,minor
+2_Samuel,18,22,JY>[,hif,T,Vt:sere,major,1,מֹצֵֽאת,0,מֹצֵֽאת׃,1,מֹצֵֽאת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+2_Samuel,19,43,NF>[,nif,T,Vt:sere,none,1,נִשֵּׂ֥את,0,נִשֵּׂ֥את,1,נִשֵּׂ֥את,1,1,merkha;,merkha;,none,none
+2_Samuel,20,8,YMD[,pual,T,segolate:segol-segol,none,1,מְצֻמֶּ֤דֶת,0,מְצֻמֶּ֤דֶת,1,מְצֻמֶּ֤דֶת,1,1,mahapakh;,mahapakh;,none,none
+2_Samuel,22,31,YRP[,qal,H,none,minor,1,צְרוּפָ֔ה,0,צְרוּפָ֔ה,1,צְרוּפָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+2_Samuel,23,5,<RK[,qal,H,none,none,1,עֲרוּכָ֤ה,0,עֲרוּכָ֤ה,1,עֲרוּכָ֤ה,1,1,mahapakh;,mahapakh;,none,none
+2_Samuel,23,5,CMR[,qal,H,qibbuts,minor,1,שְׁמֻרָ֔ה,0,שְׁמֻרָ֔ה,1,שְׁמֻרָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+2_Samuel,23,11,ML>[,qal,H,sere,none,1,מְלֵאָ֣ה,0,מְלֵאָ֣ה,1,מְלֵאָ֣ה,1,1,munah;,munah;,none,none
+2_Samuel,23,13,XNH[,qal,H,holam,minor,1,חֹנָ֖ה,0,חֹנָ֖ה,1,חֹנָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+1_Kings,1,2,SKN[,qal,T,segolate:segol-segol,major,1,סֹכֶ֑נֶת,0,סֹכֶ֑נֶת,1,סֹכֶ֑נֶת,1,1,etnahta;,etnahta;,major,major
+1_Kings,1,4,SKN[,qal,T,segolate:segol-segol,minor,1,סֹכֶ֨נֶת֙,0,סֹכֶ֙נֶת֙,1,סֹכֶ֨נֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+1_Kings,1,14,DBR[,piel,T,segolate:segol-segol,none,1,מְדַבֶּ֥רֶת,0,מְדַבֶּ֥רֶת,1,מְדַבֶּ֥רֶת,1,1,merkha;,merkha;,none,none
+1_Kings,1,15,CRT[,piel,T,segolate:qamets-patah,minor,1,מְשָׁרַ֖ת,0,מְשָׁרַ֖ת,1,מְשָׁרַ֖ת,1,1,tipeha;,tipeha;,minor,minor
+1_Kings,1,22,DBR[,piel,T,segolate:segol-segol,minor,1,מְדַבֶּ֖רֶת,0,מְדַבֶּ֖רֶת,1,מְדַבֶּ֖רֶת,1,1,tipeha;,tipeha;,minor,minor
+1_Kings,1,41,HMH[,qal,H,none,major,1,הֹומָֽה,0,הוֹמָֽה׃,1,הֹומָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+1_Kings,2,8,MRY[,nif,T,segolate:segol-segol,minor,1,נִמְרֶ֔צֶת,0,נִמְרֶ֔צֶת,1,נִמְרֶ֔צֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+1_Kings,2,20,C>L[,qal,T,segolate:segol-segol,none,1,שֹׁאֶ֣לֶת,0,שֹׁאֶ֣לֶת,1,שֹׁאֶ֣לֶת,1,1,munah;,munah;,none,none
+1_Kings,2,22,C>L[,qal,T,segolate:segol-segol,minor,1,שֹׁאֶ֜לֶת,0,שֹׁאֶ֜לֶת,1,שֹׁאֶ֜לֶת,1,1,geresh;,geresh;,minor,minor
+1_Kings,3,22,>MR[,qal,T,segolate:segol-segol,minor,1,אֹמֶ֨רֶת֙,0,אֹמֶ֙רֶת֙,1,אֹמֶ֨רֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+1_Kings,3,23,>MR[,qal,T,segolate:segol-segol,minor,1,אֹמֶ֔רֶת,0,אֹמֶ֔רֶת,2,אֹמֶ֔רֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+1_Kings,3,23,>MR[,qal,T,segolate:segol-segol,minor,1,אֹמֶ֨רֶת֙,0,אֹמֶ֔רֶת,2,אֹמֶ֨רֶת֙,1,0,qadma;pashta;,zaqef qatan;,minor,minor
+1_Kings,3,26,>MR[,qal,T,segolate:segol-segol,minor,1,אֹמֶ֗רֶת,0,אֹמֶ֗רֶת,1,אֹמֶ֗רֶת,1,1,revia;,revia;,minor,minor
+1_Kings,6,18,R>H[,nif,H,shewa,major,1,נִרְאָֽה,0,נִרְאָֽה׃,1,נִרְאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+1_Kings,6,27,NG<[,qal,T,segolate:patah-patah,minor,1,נֹגַ֖עַת,0,נֹגַ֖עַת,2,נֹגַ֖עַת,1,1,tipeha;,tipeha;,minor,minor
+1_Kings,8,42,NVH[,qal,H,none,major,1,נְּטוּיָ֑ה,0,נְּטוּיָ֑ה,1,נְּטוּיָ֑ה,1,1,etnahta;,etnahta;,major,major
+1_Kings,10,1,CM<[,qal,T,segolate:patah-patah,minor,1,שֹׁמַ֛עַת,0,שֹׁמַ֛עַת,1,שֹׁמַ֛עַת,1,1,tevir;,tevir;,minor,minor
+1_Kings,10,22,NF>[,qal,T,other:shewa-sere,minor,1,נֹֽשְׂאֵת֙,0,נֹֽשְׂאֵת֙,1,נֹֽשְׂאֵת֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+1_Kings,13,24,CLK[,hof,T,segolate:segol-segol,none,1,מֻשְׁלֶ֣כֶת,0,מֻשְׁלֶ֣כֶת,1,מֻשְׁלֶ֣כֶת,1,1,munah;,munah;,none,none
+1_Kings,13,25,CLK[,hof,T,segolate:segol-segol,none,1,מֻשְׁלֶ֣כֶת,0,מֻשְׁלֶ֣כֶת,1,מֻשְׁלֶ֣כֶת,1,1,munah;,munah;,none,none
+1_Kings,13,28,CLK[,hof,T,segolate:segol-segol,none,1,מֻשְׁלֶ֣כֶת,0,מֻשְׁלֶ֣כֶת,1,מֻשְׁלֶ֣כֶת,1,1,munah;,munah;,none,none
+1_Kings,14,5,BW>[,qal,H,qamets,none,1,בָּאָ֣ה,0,בָּאָ֣ה,2,בָּאָ֣ה,1,1,munah;,munah;,none,none
+1_Kings,14,5,NKR[,hit,H,sere,major,1,מִתְנַכֵּרָֽה,0,מִתְנַכֵּרָֽה׃,1,מִתְנַכֵּרָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+1_Kings,14,6,BW>[,qal,H,qamets,none,1,בָּאָ֣ה,0,בָּאָ֣ה,1,בָּאָ֣ה,1,1,munah;,munah;,none,none
+1_Kings,14,6,NKR[,hit,H,sere,minor,1,מִתְנַכֵּרָ֔ה,0,מִתְנַכֵּרָ֔ה,1,מִתְנַכֵּרָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+1_Kings,14,17,BW>[,qal,H,qamets,none,1,בָּאָ֥ה,0,בָּאָ֥ה,1,בָּאָ֥ה,1,1,merkha;,merkha;,none,none
+1_Kings,17,10,QCC[,piel,T,segolate:segol-segol,none,1,מְקֹשֶׁ֣שֶׁת,0,מְקֹשֶׁ֣שֶׁת,1,מְקֹשֶׁ֣שֶׁת,1,1,munah;,munah;,none,none
+1_Kings,17,12,QCC[,piel,T,segolate:segol-segol,minor,1,מְקֹשֶׁ֜שֶׁת,0,מְקֹשֶׁ֜שֶׁת,1,מְקֹשֶׁ֜שֶׁת,1,1,geresh;,geresh;,minor,minor
+1_Kings,18,44,<LH[,qal,H,holam,none,1,עֹלָ֣ה,0,עֹלָ֣ה,2,עֹלָ֣ה,1,1,munah;,munah;,none,none
+2_Kings,2,19,CKL[,piel,T,segolate:qamets-segol,major,1,מְשַׁכָּֽלֶת,0,מְשַׁכָּֽלֶת׃,1,מְשַׁכָּֽלֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+2_Kings,2,21,CKL[,piel,T,segolate:qamets-segol,major,1,מְשַׁכָּֽלֶת,0,מְשַׁכָּֽלֶת׃,1,מְשַׁכָּֽלֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+2_Kings,4,5,JYQ[,hif,T,Vt:none,major,1,מיצקת,0,מוֹצָֽקֶת,2,מֹוצָֽקֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+2_Kings,4,13,JCB[,qal,T,segolate:qamets-segol,major,1,יֹשָֽׁבֶת,0,יֹשָֽׁבֶת׃,1,יֹשָֽׁבֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+2_Kings,4,16,XBQ[,qal,T,segolate:segol-segol,none,1,חֹבֶ֣קֶת,0,חֹבֶ֣קֶת,1,חֹבֶ֣קֶת,1,1,munah;,munah;,none,none
+2_Kings,4,23,HLK[,qal,other,HLKTJ,none,1,הלכתי,0,הֹלֶ֤כֶת,2,הֹלֶ֤כֶת,1,1,mahapakh;,mahapakh;,none,none
+2_Kings,7,15,ML>[,qal,H,sere,none,1,מְלֵאָ֤ה,0,מְלֵאָ֤ה,1,מְלֵאָ֤ה,1,1,mahapakh;,mahapakh;,none,none
+2_Kings,8,5,Y<Q[,qal,T,segolate:segol-segol,none,1,צֹעֶ֣קֶת,0,צֹעֶ֣קֶת,1,צֹעֶ֣קֶת,1,1,munah;,munah;,none,none
+2_Kings,9,34,>RR[,qal,H,none,none,1,אֲרוּרָ֤ה,0,אֲרוּרָ֤ה,1,אֲרוּרָ֤ה,1,1,mahapakh;,mahapakh;,none,none
+2_Kings,11,3,MLK[,qal,T,segolate:segol-segol,none,1,מֹלֶ֥כֶת,0,מֹלֶ֥כֶת,1,מֹלֶ֥כֶת,1,1,merkha;,merkha;,none,none
+2_Kings,17,36,NVH[,qal,H,none,minor,0,נְטוּיָ֖ה,0,נְטוּיָ֖ה,1,נְטוּיָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+2_Kings,19,4,MY>[,nif,H,qamets,major,1,נִּמְצָאָֽה,0,נִּמְצָאָֽה׃,1,נִּמְצָאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+2_Kings,19,30,C>R[,nif,H,qamets,minor,1,נִּשְׁאָרָ֖ה,0,נִּשְׁאָרָ֖ה,1,נִּשְׁאָרָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+2_Kings,22,14,JCB[,qal,T,segolate:segol-segol,none,1,יֹשֶׁ֥בֶת,0,יֹשֶׁ֥בֶת,1,יֹשֶׁ֥בֶת,1,1,merkha;,merkha;,none,none
+Isaiah,1,8,NYR[,qal,H,none,major,1,נְצוּרָֽה,0,נְצוּרָֽה׃,1,נְצוּרָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,1,21,ZNH[,qal,H,none,minor,1,זֹונָ֔ה,0,זוֹנָ֔ה,1,זֹונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Isaiah,1,21,>MN[,nif,H,qamets,major,1,נֶאֱמָנָ֑ה,0,נֶאֱמָנָ֑ה,1,נֶאֱמָנָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,1,26,>MN[,nif,H,qamets,major,1,נֶאֱמָנָֽה,0,נֶאֱמָנָֽה׃,1,נֶאֱמָנָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,1,30,NBL[,qal,T,segolate:segol-segol,none,1,נֹבֶ֣לֶת,0,נֹבֶ֣לֶת,1,נֹבֶ֣לֶת,1,1,munah;,munah;,none,none
+Isaiah,5,25,NVH[,qal,H,none,major,1,נְטוּיָֽה,0,נְטוּיָֽה׃,1,נְטוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,6,12,<ZB[,qal,H,none,minor,1,עֲזוּבָ֖ה,0,עֲזוּבָ֖ה,1,עֲזוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,7,14,JLD[,qal,T,segolate:segol-segol,none,1,יֹלֶ֣דֶת,0,יֹלֶ֣דֶת,1,יֹלֶ֣דֶת,1,1,munah;,munah;,none,none
+Isaiah,9,4,GLL[,pual,H,qamets,none,1,מְגֹולָלָ֣ה,0,מְגוֹלָלָ֣ה,1,מְגֹולָלָ֣ה,1,1,munah;,munah;,none,none
+Isaiah,9,11,NVH[,qal,H,none,major,1,נְטוּיָֽה,0,נְטוּיָֽה׃,1,נְטוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,9,16,NVH[,qal,H,none,major,1,נְטוּיָֽה,0,נְטוּיָֽה׃,1,נְטוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,9,20,NVH[,qal,H,none,major,1,נְטוּיָֽה,0,נְטוּיָֽה׃,1,נְטוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,10,4,NVH[,qal,H,none,major,1,נְטוּיָֽה,0,נְטוּיָֽה׃,1,נְטוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,10,23,XRY[,nif,H,qamets,major,1,נֶחֱרָצָ֑ה,0,נֶחֱרָצָ֑ה,1,נֶחֱרָצָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,12,5,JD<[,hof,T,Vt:none,none,1,מידעת,0,מוּדַ֥עַת,2,מוּדַ֥עַת,1,1,merkha;,merkha;,none,none
+Isaiah,12,6,JCB[,qal,T,segolate:segol-segol,none,1,יֹושֶׁ֣בֶת,0,יוֹשֶׁ֣בֶת,1,יֹושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Isaiah,13,8,JLD[,qal,H,sere,minor,1,יֹּולֵדָ֖ה,0,יּוֹלֵדָ֖ה,1,יֹּולֵדָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,14,26,J<Y[,qal,H,none,minor,1,יְּעוּצָ֖ה,0,יְּעוּצָ֖ה,1,יְּעוּצָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,14,26,NVH[,qal,H,none,minor,1,נְּטוּיָ֖ה,0,נְּטוּיָ֖ה,1,נְּטוּיָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,14,27,NVH[,qal,H,none,minor,1,נְּטוּיָ֖ה,0,נְּטוּיָ֖ה,1,נְּטוּיָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,15,2,GR<[,qal,H,none,major,1,גְּרוּעָֽה,0,גְּרוּעָֽה׃,1,גְּרוּעָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,17,6,PRH[,qal,H,hireq,minor,1,פֹּֽרִיָּ֔ה,0,פֹּֽרִיָּ֔ה,1,פֹּֽרִיָּ֔ה,1,1,hebrew point meteg;zaqef qatan;,hebrew point meteg;zaqef qatan;,minor,minor
+Isaiah,17,9,<ZB[,qal,T,segolate:none-patah,none,1,עֲזוּבַ֤ת,0,עֲזוּבַ֤ת,1,עֲזוּבַ֤ת,1,1,mahapakh;,mahapakh;,none,none
+Isaiah,17,11,XLH[,nif,H,hatef patah,minor,1,נַחֲלָ֖ה,0,נַחֲלָ֖ה,1,נַחֲלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,19,11,B<R=[,nif,H,qamets,major,1,נִבְעָרָ֑ה,0,נִבְעָרָ֑ה,1,נִבְעָרָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,21,1,JR>[,nif,H,qamets,major,1,נֹורָאָֽה,0,נוֹרָאָֽה׃,1,נֹורָאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,21,3,JLD[,qal,H,sere,major,1,יֹֽולֵדָ֑ה,0,יוֹלֵדָ֑ה,1,יֹֽולֵדָ֑ה,1,0,hebrew point meteg;etnahta;,etnahta;,major,major
+Isaiah,21,15,NVC[,qal,H,none,minor,1,נְטוּשָׁ֗ה,0,נְטוּשָׁ֗ה,1,נְטוּשָׁ֗ה,1,1,revia;,revia;,minor,minor
+Isaiah,21,15,DRK[,qal,H,none,minor,1,דְּרוּכָ֔ה,0,דְּרוּכָ֔ה,1,דְּרוּכָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Isaiah,22,2,ML>[,qal,H,sere,minor,1,מְלֵאָ֗ה,0,מְלֵאָ֗ה,1,מְלֵאָ֗ה,1,1,revia;,revia;,minor,minor
+Isaiah,22,2,HMH[,qal,H,hireq,minor,1,הֹֽומִיָּ֔ה,0,הֽוֹמִיָּ֔ה,1,הֹֽומִיָּ֔ה,1,1,hebrew point meteg;zaqef qatan;,hebrew point meteg;zaqef qatan;,minor,minor
+Isaiah,22,25,TQ<[,qal,H,none,minor,1,תְּקוּעָ֖ה,0,תְּקוּעָ֖ה,1,תְּקוּעָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,23,8,<VR[,hif,H,none,major,1,מַּֽעֲטִירָ֑ה,0,מַּעֲטִירָ֑ה,1,מַּֽעֲטִירָ֑ה,1,0,hebrew point meteg;etnahta;,etnahta;,major,major
+Isaiah,23,12,<CQ[,pual,H,qamets,minor,1,מְעֻשָּׁקָ֞ה,0,מְעֻשָּׁקָ֞ה,1,מְעֻשָּׁקָ֞ה,1,1,gershayim;,gershayim;,minor,minor
+Isaiah,23,15,ZNH[,qal,H,none,major,1,זֹּונָֽה,0,זּוֹנָֽה׃,1,זֹּונָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,23,16,ZNH[,qal,H,none,none,1,זֹונָ֣ה,0,זוֹנָ֣ה,1,זֹונָ֣ה,1,1,munah;,munah;,none,none
+Isaiah,23,16,CKX[,nif,H,qamets,major,1,נִשְׁכָּחָ֑ה,0,נִשְׁכָּחָ֑ה,1,נִשְׁכָּחָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,24,19,R<H[,qal,H,holam,none,1,רֹ֥עָה,0,רֹ֥עָה,1,רֹ֥עָה,1,1,merkha;,merkha;,none,none
+Isaiah,25,7,NSK=[,qal,H,none,minor,1,נְּסוּכָ֖ה,0,נְּסוּכָ֖ה,1,נְּסוּכָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,26,5,FGB[,nif,H,qamets,major,1,נִשְׂגָּבָ֑ה,0,נִשְׂגָּבָ֑ה,1,נִשְׂגָּבָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,28,22,XRY[,nif,H,qamets,minor,1,נֶחֱרָצָ֜ה,0,נֶחֱרָצָ֜ה,1,נֶחֱרָצָ֜ה,1,1,geresh;,geresh;,minor,minor
+Isaiah,29,6,>KL[,qal,H,sere,major,1,אֹוכֵלָֽה,0,אוֹכֵלָֽה׃,1,אֹוכֵלָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,29,8,CWQQ/,qal,H,sere,major,1,שֹׁוקֵקָ֑ה,0,שׁוֹקֵקָ֑ה,1,שֹׁוקֵקָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,29,13,LMD[,pual,H,qamets,major,1,מְלֻמָּדָֽה,0,מְלֻמָּדָֽה׃,1,מְלֻמָּדָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,30,13,FGB[,nif,H,qamets,major,1,נִשְׂגָּבָ֑ה,0,נִשְׂגָּבָ֑ה,1,נִשְׂגָּבָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,30,25,NF>[,nif,H,qamets,minor,1,נִשָּׂאָ֔ה,0,נִשָּׂאָ֔ה,1,נִשָּׂאָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Isaiah,30,27,>KL[,qal,T,segolate:qamets-segol,major,1,אֹכָֽלֶת,0,אֹכָֽלֶת׃,1,אֹכָֽלֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,30,30,>KL[,qal,H,sere,major,1,אֹוכֵלָ֑ה,0,אוֹכֵלָ֑ה,1,אֹוכֵלָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,30,33,B<R[,qal,H,hatef patah,minor,1,בֹּעֲרָ֖ה,0,בֹּעֲרָ֖ה,1,בֹּעֲרָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,32,12,PRH[,qal,H,hireq,major,1,פֹּרִיָּֽה,0,פֹּרִיָּֽה׃,1,פֹּרִיָּֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,33,14,>KL[,qal,H,sere,minor,1,אֹוכֵלָ֔ה,0,אֽוֹכֵלָ֔ה,1,אֹוכֵלָ֔ה,1,0,zaqef qatan;,hebrew point meteg;zaqef qatan;,minor,minor
+Isaiah,34,4,NBL[,qal,T,segolate:segol-segol,minor,1,נֹבֶ֖לֶת,0,נֹבֶ֖לֶת,1,נֹבֶ֖לֶת,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,34,9,B<R[,qal,H,sere,major,1,בֹּעֵרָֽה,0,בֹּעֵרָֽה׃,1,בֹּעֵרָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,37,4,MY>[,nif,H,qamets,major,1,נִּמְצָאָֽה,0,נִּמְצָאָֽה׃,1,נִּמְצָאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Isaiah,37,31,C>R[,nif,H,qamets,minor,1,נִּשְׁאָרָ֖ה,0,נִּשְׁאָרָ֖ה,1,נִּשְׁאָרָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,40,9,BFR[,piel,T,segolate:segol-segol,none,1,מְבַשֶּׂ֣רֶת,0,מְבַשֶּׂ֣רֶת,2,מְבַשֶּׂ֣רֶת,1,1,munah;,munah;,none,none
+Isaiah,40,9,BFR[,piel,T,segolate:segol-segol,minor,1,מְבַשֶּׂ֖רֶת,0,מְבַשֶּׂ֖רֶת,2,מְבַשֶּׂ֖רֶת,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,40,10,MCL[,qal,H,shewa,none,1,מֹ֣שְׁלָה,0,מֹ֣שְׁלָה,1,מֹ֣שְׁלָה,1,1,munah;,munah;,none,none
+Isaiah,42,14,JLD[,qal,H,sere,none,1,יֹּולֵדָ֣ה,0,יּוֹלֵדָ֣ה,1,יֹּולֵדָ֣ה,1,1,munah;,munah;,none,none
+Isaiah,47,8,JCB[,qal,T,segolate:segol-segol,none,1,יֹּושֶׁ֣בֶת,0,יּוֹשֶׁ֣בֶת,1,יֹּושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Isaiah,47,8,>MR[,qal,H,shewa,minor,1,אֹֽמְרָה֙,0,אֹֽמְרָה֙,1,אֹֽמְרָה֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+Isaiah,49,21,GLH[,qal,H,holam,none,1,גֹּלָ֣ה,0,גֹּלָ֣ה,1,גֹּלָ֣ה,1,1,munah;,munah;,none,none
+Isaiah,51,9,XYB[,hif,T,segolate:segol-segol,none,1,מַּחְצֶ֥בֶת,0,מַּחְצֶ֥בֶת,1,מַּחְצֶ֥בֶת,1,1,merkha;,merkha;,none,none
+Isaiah,51,9,XLL=[,piel,T,segolate:segol-segol,none,1,מְחֹולֶ֥לֶת,0,מְחוֹלֶ֥לֶת,1,מְחֹולֶ֥לֶת,1,1,merkha;,merkha;,none,none
+Isaiah,51,10,XRB[,hif,T,segolate:segol-segol,none,1,מַּחֲרֶ֣בֶת,0,מַּחֲרֶ֣בֶת,1,מַּחֲרֶ֣בֶת,1,1,munah;,munah;,none,none
+Isaiah,54,1,CMM[,qal,H,sere,minor,1,שֹׁומֵמָ֛ה,0,שׁוֹמֵמָ֛ה,1,שֹׁומֵמָ֛ה,1,1,tevir;,tevir;,minor,minor
+Isaiah,54,1,B<L[,qal,H,none,minor,1,בְעוּלָ֖ה,0,בְעוּלָ֖ה,1,בְעוּלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,54,6,<ZB[,qal,H,none,minor,1,עֲזוּבָ֛ה,0,עֲזוּבָ֛ה,1,עֲזוּבָ֛ה,1,1,tevir;,tevir;,minor,minor
+Isaiah,54,6,<YB[,qal,T,segolate:none-patah,none,1,עֲצ֥וּבַת,0,עֲצ֥וּבַת,1,עֲצ֥וּבַת,1,1,merkha;,merkha;,none,none
+Isaiah,57,3,<NN[,piel,H,shewa,major,1,עֹנְנָ֑ה,0,עֹנְﬞנָ֑ה,1,עֹנְנָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,58,10,<NH=[,nif,H,hatef patah,minor,1,נַעֲנָ֖ה,0,נַעֲנָ֖ה,1,נַעֲנָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,59,5,ZWR=[,qal,other,Z.W.REH,minor,1,זּוּרֶ֖ה,0,זּוּרֶ֖ה,1,זּוּרֶ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,59,15,<DR[,nif,T,segolate:segol-segol,minor,1,נֶעְדֶּ֔רֶת,0,נֶעְדֶּ֔רֶת,1,נֶעְדֶּ֔רֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Isaiah,60,15,<ZB[,qal,H,none,none,1,עֲזוּבָ֥ה,0,עֲזוּבָ֥ה,1,עֲזוּבָ֥ה,1,1,merkha;,merkha;,none,none
+Isaiah,60,15,FN>[,qal,H,none,minor,1,שְׂנוּאָ֖ה,0,שְׂנוּאָ֖ה,1,שְׂנוּאָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,62,4,<ZB[,qal,H,none,minor,1,עֲזוּבָ֗ה,0,עֲזוּבָ֗ה,1,עֲזוּבָ֗ה,1,1,revia;,revia;,minor,minor
+Isaiah,62,4,B<L[,qal,H,none,major,1,בְּעוּלָ֑ה,0,בְּעוּלָ֑ה,1,בְּעוּלָ֑ה,1,1,etnahta;,etnahta;,major,major
+Isaiah,62,12,DRC[,qal,H,none,minor,1,דְרוּשָׁ֔ה,0,דְרוּשָׁ֔ה,1,דְרוּשָׁ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Isaiah,65,5,JQD[,qal,T,segolate:segol-segol,minor,1,יֹקֶ֖דֶת,0,יֹקֶ֖דֶת,1,יֹקֶ֖דֶת,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,65,6,KTB[,qal,H,none,minor,1,כְתוּבָ֖ה,0,כְתוּבָ֖ה,1,כְתוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Isaiah,66,18,BW>[,qal,H,qamets,minor,1,בָּאָ֕ה,0,בָּאָ֕ה,1,בָּאָ֕ה,1,1,zaqef gadol;,zaqef gadol;,minor,minor
+Jeremiah,2,2,ZR<[,qal,H,none,major,1,זְרוּעָֽה,0,זְרוּעָֽה׃,1,זְרוּעָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,2,20,Y<H[,qal,H,holam,none,1,צֹעָ֥ה,0,צֹעָ֥ה,1,צֹעָ֥ה,1,1,merkha;,merkha;,none,none
+Jeremiah,2,20,ZNH[,qal,H,holam,major,1,זֹנָֽה,0,זֹנָֽה׃,1,זֹנָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,2,23,FRK[,piel,T,segolate:segol-segol,none,1,מְשָׂרֶ֥כֶת,0,מְשָׂרֶ֥כֶת,1,מְשָׂרֶ֥כֶת,1,1,merkha;,merkha;,none,none
+Jeremiah,3,3,ZNH[,qal,H,none,minor,1,זֹונָה֙,0,זוֹנָה֙,1,זֹונָה֙,1,1,pashta;,pashta;,minor,minor
+Jeremiah,3,6,HLK[,qal,H,shewa,none,1,הֹלְכָ֨ה,0,הֹלְכָ֨ה,1,הֹלְכָ֨ה,1,1,qadma;,qadma;,none,none
+Jeremiah,3,8,BGD[,qal,H,sere,none,1,בֹּֽגֵדָ֤ה,0,בֹּגֵדָ֤ה,1,בֹּֽגֵדָ֤ה,1,0,hebrew point meteg;mahapakh;,mahapakh;,none,none
+Jeremiah,3,11,BGD[,qal,H,sere,minor,1,בֹּגֵדָ֖ה,0,בֹּגֵדָ֖ה,1,בֹּגֵדָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,4,29,BRX[,qal,T,segolate:patah-patah,minor,1,בֹּרַ֨חַת֙,0,בֹּרַ֙חַת֙,1,בֹּרַ֨חַת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Jeremiah,4,29,<ZB[,qal,H,none,minor,1,עֲזוּבָ֔ה,0,עֲזוּבָ֔ה,1,עֲזוּבָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,4,31,XLH[,qal,H,none,minor,1,חֹולָ֜ה,0,חוֹלָ֜ה,1,חֹולָ֜ה,1,1,geresh;,geresh;,minor,minor
+Jeremiah,4,31,BKR[,hif,H,none,minor,1,מַבְכִּירָ֔ה,0,מַבְכִּירָ֔ה,1,מַבְכִּירָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,5,7,ZNH[,qal,H,none,minor,1,זֹונָ֖ה,0,זוֹנָ֖ה,1,זֹונָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,6,2,<NG[,pual,H,qamets,minor,1,מְּעֻנָּגָ֔ה,0,מְּעֻנָּגָ֔ה,1,מְּעֻנָּגָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,6,14,QLL[,nif,H,patah,minor,1,נְקַלָּ֔ה,0,נְקַלָּ֔ה,1,נְקַלָּ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,6,24,JLD[,qal,H,sere,major,1,יֹּולֵדָֽה,0,יּֽוֹלֵדָֽה׃,1,יֹּולֵדָֽה,1,0,hebrew point meteg;,hebrew point meteg;hebrew point meteg;,major,major
+Jeremiah,7,20,NTK[,nif,T,segolate:segol-segol,minor,1,נִתֶּ֨כֶת֙,0,נִתֶּ֙כֶת֙,1,נִתֶּ֨כֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Jeremiah,8,5,CWBB/,qal,H,shewa,minor,1,שֹׁובְבָ֜ה,0,שׁוֹבְﬞבָ֜ה,1,שֹׁובְבָ֜ה,1,1,geresh;,geresh;,minor,minor
+Jeremiah,8,5,NYX[,nif,T,segolate:patah-patah,major,1,נִצַּ֑חַת,0,נִצַּ֑חַת,1,נִצַּ֑חַת,1,1,etnahta;,etnahta;,major,major
+Jeremiah,8,11,QLL[,nif,H,patah,minor,1,נְקַלָּ֔ה,0,נְקַלָּ֔ה,1,נְקַלָּ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,10,17,JCB[,qal,other,JCBTJ,minor,1,ישׁבתי,0,יֹשֶׁ֖בֶת,2,יֹשֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,10,19,XLH[,nif,H,shewa,minor,1,נַחְלָ֖ה,0,נַחְלָ֖ה,1,נַחְלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,10,22,BW>[,qal,H,qamets,minor,1,בָאָ֔ה,0,בָאָ֔ה,1,בָאָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,11,5,ZWB[,qal,T,segolate:qamets-patah,none,1,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Jeremiah,12,12,>KL[,qal,H,shewa,minor,1,אֹֽכְלָ֔ה,0,אֹֽכְלָ֔ה,1,אֹֽכְלָ֔ה,1,1,hebrew point meteg;zaqef qatan;,hebrew point meteg;zaqef qatan;,minor,minor
+Jeremiah,14,17,XLH[,nif,H,shewa,none,1,נַחְלָ֥ה,0,נַחְלָ֥ה,1,נַחְלָ֥ה,1,1,merkha;,merkha;,none,none
+Jeremiah,15,9,JLD[,qal,T,segolate:segol-segol,none,1,יֹלֶ֣דֶת,0,יֹלֶ֣דֶת,1,יֹלֶ֣דֶת,1,1,munah;,munah;,none,none
+Jeremiah,17,1,KTB[,qal,H,none,minor,1,כְּתוּבָ֛ה,0,כְּתוּבָ֛ה,1,כְּתוּבָ֛ה,1,1,tevir;,tevir;,minor,minor
+Jeremiah,17,1,XRC=[,qal,H,none,minor,1,חֲרוּשָׁה֙,0,חֲרוּשָׁה֙,1,חֲרוּשָׁה֙,1,1,pashta;,pashta;,minor,minor
+Jeremiah,18,15,SLL[,qal,H,none,major,1,סְלוּלָֽה,0,סְלוּלָֽה׃,1,סְלוּלָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,20,9,B<R[,qal,T,segolate:segol-segol,minor,1,בֹּעֶ֔רֶת,0,בֹּעֶ֔רֶת,1,בֹּעֶ֔רֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,21,5,NVH[,qal,H,none,minor,1,נְטוּיָ֖ה,0,נְטוּיָ֖ה,1,נְטוּיָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,21,13,JCB[,qal,T,segolate:segol-segol,none,1,יֹשֶׁ֧בֶת,0,יֹשֶׁ֧בֶת,1,יֹשֶׁ֧בֶת,1,1,darga;,darga;,none,none
+Jeremiah,22,23,JCB[,qal,other,JCBTJ,minor,1,ישׁבתי,0,יֹשַׁבְתְּ֙,2,יֹשַׁבְתְּ֙,1,1,pashta;,pashta;,minor,minor
+Jeremiah,22,23,QNN[,pual,other,MQNNTJ,minor,1,מקננתי,0,מְקֻנַּ֖נְתְּ,2,מְקֻנַּ֖נְתְּ,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,22,23,JLD[,qal,H,sere,major,1,יֹּלֵדָֽה,0,יֹּלֵדָֽה׃,1,יֹּלֵדָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,25,32,JY>[,qal,T,Vt:sere,minor,1,יֹצֵ֖את,0,יֹצֵ֖את,1,יֹצֵ֖את,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,25,38,JNH[,qal,H,none,minor,1,יֹּונָ֔ה,0,יּוֹנָ֔ה,1,יֹּונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,27,5,NVH[,qal,H,none,major,1,נְּטוּיָ֑ה,0,נְּטוּיָ֑ה,1,נְּטוּיָ֑ה,1,1,etnahta;,etnahta;,major,major
+Jeremiah,30,6,JLD[,qal,H,sere,minor,0,יֹּ֣ולֵדָ֔ה,0,יּ֣וֹלֵדָ֔ה,1,יֹּ֣ולֵדָ֔ה,1,1,munah;zaqef qatan;,munah;zaqef qatan;,minor,minor
+Jeremiah,30,12,XLH[,nif,H,shewa,minor,0,נַחְלָ֖ה,0,נַחְלָ֖ה,1,נַחְלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,30,17,NDX[,nif,H,qamets,minor,0,נִדָּחָה֙,0,נִדָּחָה֙,1,נִדָּחָה֙,1,1,pashta;,pashta;,minor,minor
+Jeremiah,31,8,JLD[,qal,T,segolate:segol-segol,minor,0,יֹלֶ֖דֶת,1,יֹלֶ֖דֶת,1,יֹלֶ֖דֶת,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,31,15,BKH[,piel,H,patah,none,0,מְבַכָּ֣ה,1,מְבַכָּ֣ה,1,מְבַכָּ֣ה,1,1,munah;,munah;,none,none
+Jeremiah,31,22,CWBB/,qal,H,sere,major,0,שֹּֽׁובֵבָ֑ה,1,שּֽׁוֹבֵבָ֑ה,1,שֹּֽׁובֵבָ֑ה,1,1,hebrew point meteg;etnahta;,hebrew point meteg;etnahta;,major,major
+Jeremiah,32,17,NVH[,qal,H,none,major,1,נְּטוּיָ֑ה,0,נְּטוּיָ֑ה,1,נְּטוּיָ֑ה,1,1,etnahta;,etnahta;,major,major
+Jeremiah,32,21,NVH[,qal,H,none,minor,1,נְטוּיָ֔ה,0,נְטוּיָ֔ה,1,נְטוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,32,22,ZWB[,qal,T,segolate:qamets-patah,none,1,זָבַ֥ת,0,זָבַ֥ת,1,זָבַ֥ת,1,1,merkha;,merkha;,none,none
+Jeremiah,36,22,B<R[,pual,T,segolate:qamets-segol,major,1,מְבֹעָֽרֶת,0,מְבֹעָֽרֶת׃,1,מְבֹעָֽרֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,36,30,CLK[,hof,T,segolate:segol-segol,minor,1,מֻשְׁלֶ֔כֶת,0,מֻשְׁלֶ֔כֶת,1,מֻשְׁלֶ֔כֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,46,16,JNH[,qal,H,none,major,1,יֹּונָֽה,0,יּוֹנָֽה׃,1,יֹּונָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,46,19,JCB[,qal,T,segolate:segol-segol,minor,1,יֹושֶׁ֖בֶת,0,יוֹשֶׁ֖בֶת,1,יֹושֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,48,18,JCB[,qal,T,segolate:segol-segol,minor,1,יֹשֶׁ֖בֶת,0,יֹשֶׁ֖בֶת,1,יֹשֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,48,19,JCB[,qal,T,segolate:segol-segol,none,1,יֹושֶׁ֣בֶת,0,יוֹשֶׁ֣בֶת,1,יֹושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Jeremiah,48,19,MLV[,nif,H,qamets,minor,1,נִמְלָ֔טָה,0,נִמְלָ֔טָה,1,נִמְלָ֔טָה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,48,37,GR<[,qal,H,qibbuts,major,1,גְּרֻעָ֑ה,0,גְּרֻעָ֑ה,1,גְּרֻעָ֑ה,1,1,etnahta;,etnahta;,major,major
+Jeremiah,48,41,YRR[,hif,H,sere,major,1,מְצֵרָֽה,0,מְצֵרָֽה׃,1,מְצֵרָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,49,4,CWBB/,qal,H,sere,major,1,שֹּֽׁובֵבָ֑ה,0,שּׁוֹבֵבָ֑ה,1,שֹּֽׁובֵבָ֑ה,1,0,hebrew point meteg;etnahta;,etnahta;,major,major
+Jeremiah,49,4,BVX[,qal,H,shewa,minor,1,בֹּֽטְחָה֙,0,בֹּֽטְחָה֙,1,בֹּֽטְחָה֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+Jeremiah,49,22,YRR[,hif,H,sere,major,1,מְצֵרָֽה,0,מְצֵרָֽה׃,1,מְצֵרָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,49,24,JLD[,qal,H,sere,major,1,יֹּולֵדָֽה,0,יּוֹלֵדָֽה׃,1,יֹּולֵדָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,50,11,DWC[,qal,H,qamets,minor,1,דָשָׁ֔ה,0,דָשָׁ֔ה,1,דָשָׁ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,50,12,JLD[,qal,suffix,,major,1,יֹֽולַדְתְּכֶ֑ם,0,יוֹלַדְתְּכֶ֑ם,1,יֹֽולַדְתְּכֶ֑ם,1,0,hebrew point meteg;etnahta;,etnahta;,major,major
+Jeremiah,50,16,JNH[,qal,H,none,minor,1,יֹּונָ֔ה,0,יּוֹנָ֔ה,1,יֹּונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Jeremiah,50,17,PZR[,qal,H,none,minor,1,פְזוּרָ֛ה,0,פְזוּרָ֛ה,1,פְזוּרָ֛ה,1,1,tevir;,tevir;,minor,minor
+Jeremiah,50,43,JLD[,qal,H,sere,major,1,יֹּולֵדָֽה,0,יּוֹלֵדָֽה׃,1,יֹּולֵדָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Jeremiah,51,7,CKR[,piel,T,segolate:segol-segol,minor,1,מְשַׁכֶּ֖רֶת,0,מְשַׁכֶּ֖רֶת,1,מְשַׁכֶּ֖רֶת,1,1,tipeha;,tipeha;,minor,minor
+Jeremiah,51,13,CKN[,qal,other,CKNTJ,minor,1,שׁכנתי,0,שֹׁכַנְתְּ֙,2,שֹׁכַנְתְּ֙,1,1,pashta;,pashta;,minor,minor
+Jeremiah,51,35,JCB[,qal,T,segolate:segol-segol,none,1,יֹשֶׁ֣בֶת,0,יֹשֶׁ֣בֶת,1,יֹשֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Jeremiah,51,46,CM<[,nif,T,segolate:patah-patah,none,1,נִּשְׁמַ֣עַת,0,נִּשְׁמַ֣עַת,1,נִּשְׁמַ֣עַת,1,1,munah;,munah;,none,none
+Ezekiel,1,4,BW>[,qal,H,qamets,none,1,בָּאָ֣ה,0,בָּאָ֣ה,1,בָּאָ֣ה,1,1,munah;,munah;,none,none
+Ezekiel,1,4,LQX[,hit,T,segolate:patah-patah,minor,1,מִתְלַקַּ֔חַת,0,מִתְלַקַּ֔חַת,1,מִתְלַקַּ֔חַת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,1,13,HLK[,hit,T,segolate:segol-segol,minor,1,מִתְהַלֶּ֖כֶת,0,מִתְהַלֶּ֖כֶת,1,מִתְהַלֶּ֖כֶת,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,2,9,CLX[,qal,H,none,none,1,שְׁלוּחָ֣ה,0,שְׁלוּחָ֣ה,1,שְׁלוּחָ֣ה,1,1,munah;,munah;,none,none
+Ezekiel,2,10,KTB[,qal,H,none,minor,1,כְתוּבָ֖ה,0,כְתוּבָ֖ה,1,כְתוּבָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,4,7,XFP[,qal,H,none,major,1,חֲשׂוּפָ֑ה,0,חֲשׂוּפָ֑ה,1,חֲשׂוּפָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,4,14,VM>[,pual,H,qamets,major,1,מְטֻמָּאָ֑ה,0,מְטֻמָּאָ֑ה,1,מְטֻמָּאָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,6,13,RWM[,qal,H,qamets,minor,1,רָמָ֜ה,0,רָמָ֜ה,1,רָמָ֜ה,1,1,geresh;,geresh;,minor,minor
+Ezekiel,7,5,BW>[,qal,H,qamets,major,1,בָאָֽה,0,בָאָֽה׃,1,בָאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ezekiel,7,6,BW>[,qal,H,qamets,major,1,בָּאָֽה,0,בָּאָֽה׃,1,בָּאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ezekiel,7,10,BW>[,qal,H,qamets,major,1,בָאָ֑ה,0,בָאָ֑ה,1,בָאָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,16,6,BWS[,hit,T,segolate:segol-segol,minor,1,מִתְבֹּוסֶ֖סֶת,0,מִתְבּוֹסֶ֖סֶת,1,מִתְבֹּוסֶ֖סֶת,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,16,22,BWS[,hit,T,segolate:segol-segol,none,1,מִתְבֹּוסֶ֥סֶת,0,מִתְבּוֹסֶ֥סֶת,1,מִתְבֹּוסֶ֥סֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,16,30,ZNH[,qal,H,none,minor,1,זֹונָ֖ה,0,זוֹנָ֖ה,1,זֹונָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,16,31,ZNH[,qal,H,none,minor,1,זֹּונָ֖ה,0,זּוֹנָ֖ה,1,זֹּונָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,16,32,N>P[,piel,T,segolate:qamets-segol,major,1,מְּנָאָ֑פֶת,0,מְּנָאָ֑פֶת,1,מְּנָאָ֑פֶת,1,1,etnahta;,etnahta;,major,major
+Ezekiel,16,35,ZNH[,qal,H,none,minor,1,זֹונָ֔ה,0,זוֹנָ֔ה,1,זֹונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,16,41,ZNH[,qal,H,none,minor,1,זֹּונָ֔ה,0,זּוֹנָ֔ה,1,זֹּונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,16,45,G<L[,qal,T,segolate:segol-segol,none,1,גֹּעֶ֥לֶת,0,גֹּעֶ֥לֶת,1,גֹּעֶ֥לֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,16,46,JCB[,qal,T,segolate:segol-segol,minor,1,יֹּושֶׁ֖בֶת,0,יּוֹשֶׁ֖בֶת,2,יֹּושֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,16,46,JCB[,qal,T,segolate:segol-segol,minor,1,יֹּושֶׁ֨בֶת֙,0,יּוֹשֶׁ֖בֶת,2,יֹּושֶׁ֨בֶת֙,1,0,qadma;pashta;,tipeha;,minor,minor
+Ezekiel,17,6,SRX[,qal,T,segolate:patah-patah,minor,1,סֹרַ֜חַת,0,סֹרַ֜חַת,1,סֹרַ֜חַת,1,1,geresh;,geresh;,minor,minor
+Ezekiel,17,8,CTL[,qal,H,none,major,1,שְׁתוּלָ֑ה,0,שְׁתוּלָ֑ה,1,שְׁתוּלָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,17,10,CTL[,qal,H,none,minor,1,שְׁתוּלָ֖ה,0,שְׁתוּלָ֖ה,1,שְׁתוּלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,17,22,RWM[,qal,H,qamets,minor,1,רָמָ֖ה,0,רָמָ֖ה,1,רָמָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,18,4,XV>[,qal,T,Vt:sere,minor,1,חֹטֵ֖את,0,חֹטֵ֖את,1,חֹטֵ֖את,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,18,20,XV>[,qal,T,Vt:sere,minor,1,חֹטֵ֖את,0,חֹטֵ֖את,1,חֹטֵ֖את,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,19,10,CTL[,qal,H,none,major,1,שְׁתוּלָ֑ה,0,שְׁתוּלָ֑ה,1,שְׁתוּלָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,19,10,PRH[,qal,H,hireq,minor,1,פֹּֽרִיָּה֙,0,פֹּֽרִיָּה֙,1,פֹּֽרִיָּה֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+Ezekiel,19,13,CTL[,qal,H,none,none,1,שְׁתוּלָ֣ה,0,שְׁתוּלָ֣ה,1,שְׁתוּלָ֣ה,1,1,munah;,munah;,none,none
+Ezekiel,20,6,ZWB[,qal,T,segolate:qamets-patah,none,1,זָבַ֤ת,0,זָבַ֤ת,1,זָבַ֤ת,1,1,mahapakh;,mahapakh;,none,none
+Ezekiel,20,15,ZWB[,qal,T,segolate:qamets-patah,none,1,זָבַ֤ת,0,זָבַ֤ת,1,זָבַ֤ת,1,1,mahapakh;,mahapakh;,none,none
+Ezekiel,20,28,RWM[,qal,H,qamets,minor,1,רָמָ֜ה,0,רָמָ֜ה,1,רָמָ֜ה,1,1,geresh;,geresh;,minor,minor
+Ezekiel,20,32,<LH[,qal,H,holam,minor,1,עֹלָה֙,0,עֹלָה֙,1,עֹלָה֙,1,1,pashta;,pashta;,minor,minor
+Ezekiel,20,33,NVH[,qal,H,none,minor,1,נְטוּיָ֛ה,0,נְטוּיָ֛ה,1,נְטוּיָ֛ה,1,1,tevir;,tevir;,minor,minor
+Ezekiel,20,33,CPK[,qal,H,none,minor,1,שְׁפוּכָ֖ה,0,שְׁפוּכָ֖ה,1,שְׁפוּכָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,20,34,NVH[,qal,H,none,minor,1,נְטוּיָ֔ה,0,נְטוּיָ֔ה,1,נְטוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,20,34,CPK[,qal,H,none,major,1,שְׁפוּכָֽה,0,שְׁפוּכָֽה׃,1,שְׁפוּכָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ezekiel,21,12,BW>[,qal,H,qamets,minor,1,בָאָ֡ה,0,בָאָ֡ה,2,בָאָ֡ה,1,1,pazer;,pazer;,minor,minor
+Ezekiel,21,12,BW>[,qal,H,qamets,minor,1,בָאָה֙,0,בָאָה֙,2,בָאָה֙,1,1,pashta;,pashta;,minor,minor
+Ezekiel,21,14,MRV[,qal,H,none,major,1,מְרוּטָֽה,0,מְרוּטָֽה׃,1,מְרוּטָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ezekiel,21,15,M>S[,qal,T,segolate:segol-segol,none,1,מֹאֶ֥סֶת,0,מֹאֶ֥סֶת,1,מֹאֶ֥סֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,21,18,M>S[,qal,T,segolate:segol-segol,minor,1,מֹאֶ֖סֶת,0,מֹאֶ֖סֶת,1,מֹאֶ֖סֶת,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,21,19,XDR[,qal,T,segolate:segol-segol,minor,1,חֹדֶ֖רֶת,0,חֹדֶ֖רֶת,1,חֹדֶ֖רֶת,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,21,20,<FH[,qal,H,none,none,1,עֲשׂוּיָ֥ה,0,עֲשׂוּיָ֥ה,1,עֲשׂוּיָ֥ה,1,1,merkha;,merkha;,none,none
+Ezekiel,21,33,PTX[,qal,H,none,minor,1,פְּתוּחָה֙,0,פְּתוּחָה֙,1,פְּתוּחָה֙,1,1,pashta;,pashta;,minor,minor
+Ezekiel,21,33,MRV[,qal,H,none,minor,1,מְרוּטָ֔ה,0,מְרוּטָ֔ה,1,מְרוּטָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,22,3,CPK[,qal,T,segolate:segol-segol,none,1,שֹׁפֶ֥כֶת,0,שֹׁפֶ֥כֶת,1,שֹׁפֶ֥כֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,22,24,VHR[,pual,H,qamets,minor,1,מְטֹהָרָ֖ה,0,מְטֹהָרָ֖ה,1,מְטֹהָרָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,23,44,ZNH[,qal,H,none,major,1,זֹונָ֑ה,0,זוֹנָ֑ה,1,זֹונָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,24,14,BW>[,qal,H,qamets,none,1,בָּאָ֣ה,0,בָּאָ֣ה,1,בָּאָ֣ה,1,1,munah;,munah;,none,none
+Ezekiel,26,10,BQ<[,pual,H,qamets,major,1,מְבֻקָּעָֽה,0,מְבֻקָּעָֽה׃,1,מְבֻקָּעָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ezekiel,26,17,JCB[,nif,T,segolate:segol-segol,minor,1,נֹושֶׁ֖בֶת,0,נוֹשֶׁ֖בֶת,1,נֹושֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,26,19,XRB[,nif,T,segolate:segol-segol,minor,1,נֶחֱרֶ֔בֶת,0,נֶחֱרֶ֔בֶת,1,נֶחֱרֶ֔בֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,27,3,JCB[,qal,other,JCBTJ,minor,1,ישׁבתי,0,יֹּשֶׁ֙בֶת֙,2,יֹּשֶׁ֨בֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Ezekiel,27,3,RKL[,qal,T,segolate:segol-segol,minor,1,רֹכֶ֨לֶת֙,0,רֹכֶ֙לֶת֙,1,רֹכֶ֨לֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Ezekiel,27,12,SXR[,qal,suffix,,minor,1,סֹחַרְתֵּ֖ךְ,0,סֹחַרְתֵּ֖ךְ,1,סֹחַרְתֵּ֖ךְ,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,27,16,SXR[,qal,suffix,,minor,1,סֹחַרְתֵּ֖ךְ,0,סֹחַרְתֵּ֖ךְ,1,סֹחַרְתֵּ֖ךְ,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,27,18,SXR[,qal,suffix,,minor,1,סֹחַרְתֵּ֛ךְ,0,סֹחַרְתֵּ֛ךְ,1,סֹחַרְתֵּ֛ךְ,1,1,tevir;,tevir;,minor,minor
+Ezekiel,27,20,RKL[,qal,suffix,,minor,1,רֹֽכַלְתֵּ֔ךְ,0,רֹֽכַלְתֵּ֔ךְ,1,רֹֽכַלְתֵּ֔ךְ,1,1,hebrew point meteg;zaqef qatan;,hebrew point meteg;zaqef qatan;,minor,minor
+Ezekiel,27,23,RKL[,qal,suffix,,major,1,רֹכַלְתֵּֽךְ,0,רֹכַלְתֵּֽךְ׃,1,רֹכַלְתֵּֽךְ,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ezekiel,27,34,CBR[,nif,T,segolate:segol-segol,none,1,נִשְׁבֶּ֥רֶת,0,נִשְׁבֶּ֥רֶת,1,נִשְׁבֶּ֥רֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,29,18,MRV[,qal,H,none,major,1,מְרוּטָ֑ה,0,מְרוּטָ֑ה,1,מְרוּטָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,30,4,BW>[,qal,H,qamets,none,1,בָאָ֥ה,0,בָאָ֥ה,1,בָאָ֥ה,1,1,merkha;,merkha;,none,none
+Ezekiel,30,9,BW>[,qal,H,qamets,major,1,בָּאָֽה,0,בָּאָֽה׃,1,בָּאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ezekiel,30,22,CBR[,nif,T,segolate:qamets-segol,major,1,נִּשְׁבָּ֑רֶת,0,נִּשְׁבָּ֑רֶת,1,נִּשְׁבָּ֑רֶת,1,1,etnahta;,etnahta;,major,major
+Ezekiel,32,15,CMM[,nif,H,patah,minor,1,נְשַׁמָּ֗ה,0,נְשַׁמָּ֗ה,1,נְשַׁמָּ֗ה,1,1,revia;,revia;,minor,minor
+Ezekiel,33,3,BW>[,qal,H,qamets,none,1,בָּאָ֣ה,0,בָּאָ֣ה,1,בָּאָ֣ה,1,1,munah;,munah;,none,none
+Ezekiel,33,6,BW>[,qal,H,qamets,minor,1,בָּאָ֗ה,0,בָּאָ֗ה,1,בָּאָ֗ה,1,1,revia;,revia;,minor,minor
+Ezekiel,33,33,BW>[,qal,H,qamets,minor,1,בָאָ֔ה,0,בָאָ֔ה,2,בָאָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,34,4,XLH[,qal,H,none,none,1,חֹולָ֣ה,0,חוֹלָ֣ה,1,חֹולָ֣ה,1,1,munah;,munah;,none,none
+Ezekiel,34,4,CBR[,nif,T,segolate:segol-segol,minor,1,נִּשְׁבֶּ֨רֶת֙,0,נִּשְׁבֶּ֙רֶת֙,1,נִּשְׁבֶּ֨רֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Ezekiel,34,4,NDX[,nif,T,segolate:patah-patah,minor,1,נִּדַּ֨חַת֙,0,נִּדַּ֙חַת֙,1,נִּדַּ֨חַת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Ezekiel,34,4,>BD[,qal,T,segolate:segol-segol,minor,1,אֹבֶ֖דֶת,0,אֹבֶ֖דֶת,1,אֹבֶ֖דֶת,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,34,6,RWM[,qal,H,qamets,major,1,רָמָ֑ה,0,רָמָ֑ה,1,רָמָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,34,16,>BD[,qal,T,segolate:segol-segol,none,1,אֹבֶ֤דֶת,0,אֹבֶ֤דֶת,1,אֹבֶ֤דֶת,1,1,mahapakh;,mahapakh;,none,none
+Ezekiel,34,16,NDX[,nif,T,segolate:patah-patah,none,1,נִּדַּ֣חַת,0,נִּדַּ֣חַת,1,נִּדַּ֣חַת,1,1,munah;,munah;,none,none
+Ezekiel,34,16,CBR[,nif,T,segolate:segol-segol,none,1,נִּשְׁבֶּ֣רֶת,0,נִּשְׁבֶּ֣רֶת,1,נִּשְׁבֶּ֣רֶת,1,1,munah;,munah;,none,none
+Ezekiel,34,16,XLH[,qal,H,none,minor,1,חֹולָ֖ה,0,חוֹלָ֖ה,1,חֹולָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,36,13,>KL[,qal,T,segolate:segol-segol,none,1,אֹכֶ֥לֶת,0,אֹכֶ֥לֶת,1,אֹכֶ֥לֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,36,13,CKL[,piel,T,segolate:segol-segol,none,1,מְשַׁכֶּ֥לֶת,0,מְשַׁכֶּ֥לֶת,1,מְשַׁכֶּ֥לֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,36,34,CMM[,nif,H,patah,minor,1,נְּשַׁמָּ֖ה,0,נְּשַׁמָּ֖ה,1,נְּשַׁמָּ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Ezekiel,36,35,CMM[,nif,H,patah,minor,1,נְּשַׁמָּ֔ה,0,נְּשַׁמָּ֔ה,1,נְּשַׁמָּ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ezekiel,36,36,CMM[,nif,H,patah,major,1,נְּשַׁמָּ֑ה,0,נְּשַׁמָּ֑ה,1,נְּשַׁמָּ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,37,1,ML>[,qal,H,sere,none,1,מְלֵאָ֥ה,0,מְלֵאָ֥ה,1,מְלֵאָ֥ה,1,1,merkha;,merkha;,none,none
+Ezekiel,38,8,CWB[,piel,T,segolate:segol-segol,none,1,מְשֹׁובֶ֣בֶת,0,מְשׁוֹבֶ֣בֶת,1,מְשֹׁובֶ֣בֶת,1,1,munah;,munah;,none,none
+Ezekiel,38,8,QBY[,pual,T,segolate:segol-segol,minor,1,מְקֻבֶּ֨צֶת֙,0,מְקֻבֶּ֙צֶת֙,1,מְקֻבֶּ֨צֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Ezekiel,39,8,BW>[,qal,H,qamets,minor,1,בָאָה֙,0,בָאָה֙,1,בָאָה֙,1,1,pashta;,pashta;,minor,minor
+Ezekiel,39,11,XSM[,qal,T,segolate:segol-segol,none,1,חֹסֶ֥מֶת,0,חֹסֶ֥מֶת,1,חֹסֶ֥מֶת,1,1,merkha;,merkha;,none,none
+Ezekiel,40,47,RB<[,pual,T,segolate:qamets-patah,major,1,מְרֻבָּ֑עַת,0,מְרֻבָּ֑עַת,1,מְרֻבָּ֑עַת,1,1,etnahta;,etnahta;,major,major
+Ezekiel,41,21,RB<[,qal,H,qibbuts,major,1,רְבֻעָ֑ה,0,רְבֻעָ֑ה,1,רְבֻעָ֑ה,1,1,etnahta;,etnahta;,major,major
+Ezekiel,41,25,<FH[,qal,H,none,none,1,עֲשׂוּיָ֨ה,0,עֲשׂוּיָ֨ה,1,עֲשׂוּיָ֨ה,1,1,qadma;,qadma;,none,none
+Ezekiel,44,22,GRC[,qal,H,none,minor,1,גְרוּשָׁ֔ה,0,גְרוּשָׁ֔ה,1,גְרוּשָׁ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Hosea,2,7,HRH[,qal,suffix,,major,1,הֹֽורָתָ֑ם,0,הוֹרָתָ֑ם,1,הֹֽורָתָ֑ם,1,0,hebrew point meteg;etnahta;,etnahta;,major,major
+Hosea,3,1,>HB[,qal,T,segolate:qibbuts-patah,none,1,אֲהֻ֥בַת,0,אֲהֻ֥בַת,2,אֲהֻ֥בַת,1,1,merkha;,merkha;,none,none
+Hosea,3,1,N>P[,piel,T,segolate:qamets-segol,major,1,מְנָאָ֑פֶת,0,מְנָאָ֑פֶת,1,מְנָאָ֑פֶת,1,1,etnahta;,etnahta;,major,major
+Hosea,4,16,SRR[,qal,H,sere,minor,1,סֹֽרֵרָ֔ה,0,סֹרֵרָ֔ה,1,סֹֽרֵרָ֔ה,1,0,hebrew point meteg;zaqef qatan;,zaqef qatan;,minor,minor
+Hosea,5,1,PRF[,qal,H,none,none,1,פְּרוּשָׂ֥ה,0,פְּרוּשָׂ֥ה,1,פְּרוּשָׂ֥ה,1,1,merkha;,merkha;,none,none
+Hosea,5,9,>MN[,nif,H,qamets,major,1,נֶאֱמָנָֽה,0,נֶאֱמָנָֽה׃,1,נֶאֱמָנָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Hosea,7,4,B<R[,qal,H,sere,minor,1,בֹּעֵ֖רָה,0,בֹּעֵ֖רָה,1,בֹּעֵ֖רָה,1,1,tipeha;,tipeha;,minor,minor
+Hosea,7,8,HPK[,qal,H,none,major,1,הֲפוּכָֽה,0,הֲפוּכָֽה׃,1,הֲפוּכָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Hosea,7,11,PTH[,qal,H,none,minor,1,פֹותָ֖ה,0,פוֹתָ֖ה,1,פֹותָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Hosea,9,13,CTL[,qal,H,none,none,1,שְׁתוּלָ֣ה,0,שְׁתוּלָ֣ה,1,שְׁתוּלָ֣ה,1,1,munah;,munah;,none,none
+Hosea,10,11,LMD[,pual,H,qamets,minor,1,מְלֻמָּדָה֙,0,מְלֻמָּדָה֙,1,מְלֻמָּדָה֙,1,1,pashta;,pashta;,minor,minor
+Hosea,10,11,>HB[,qal,other,>OHAB:T.IJ,none,1,אֹהַ֣בְתִּי,0,אֹהַ֣בְתִּי,1,אֹהַ֣בְתִּי,1,1,munah;,munah;,none,none
+Hosea,13,12,YPN[,qal,H,none,minor,1,צְפוּנָ֖ה,0,צְפוּנָ֖ה,1,צְפוּנָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Hosea,13,13,JLD[,qal,H,sere,minor,1,יֹֽולֵדָ֖ה,0,יוֹלֵדָ֖ה,1,יֹֽולֵדָ֖ה,1,0,hebrew point meteg;tipeha;,tipeha;,minor,minor
+Joel,1,8,XGR[,qal,T,segolate:qibbuts-patah,none,1,חֲגֻֽרַת,0,חֲגֻרַת,1,חֲגֻֽרַת,1,0,hebrew point meteg;,,none,none
+Joel,2,5,>KL[,qal,H,shewa,minor,1,אֹכְלָ֖ה,0,אֹכְלָ֖ה,1,אֹכְלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Joel,4,3,ZNH[,qal,H,none,minor,1,זֹּונָ֔ה,0,זּוֹנָ֔ה,1,זֹּונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Amos,5,3,JY>[,qal,T,Vt:sere,none,1,יֹּצֵ֥את,0,יֹּצֵ֥את,1,יֹּצֵ֥את,1,1,merkha;,merkha;,none,none
+Amos,5,3,JY>[,qal,T,Vt:sere,none,1,יֹּוצֵ֥את,0,יּוֹצֵ֥את,1,יֹּוצֵ֥את,1,1,merkha;,merkha;,none,none
+Amos,9,11,NPL[,qal,T,segolate:segol-segol,major,0,נֹּפֶ֑לֶת,0,נֹּפֶ֑לֶת,1,נֹּפֶ֑לֶת,1,1,etnahta;,etnahta;,major,major
+Jonah,1,3,BW>[,qal,H,qamets,none,0,בָּאָ֣ה,0,בָּאָ֣ה,1,בָּאָ֣ה,1,1,munah;,munah;,none,none
+Jonah,3,4,HPK[,nif,T,segolate:qamets-segol,major,0,נֶהְפָּֽכֶת,0,נֶהְפָּֽכֶת׃,1,נֶהְפָּֽכֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Micah,1,7,ZNH[,qal,H,none,minor,0,זֹונָה֙,0,זוֹנָה֙,2,זֹונָה֙,1,1,pashta;,pashta;,minor,minor
+Micah,1,7,ZNH[,qal,H,none,minor,0,זֹונָ֖ה,0,זוֹנָ֖ה,2,זֹונָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Micah,1,11,JCB[,qal,T,segolate:segol-segol,none,0,יֹושֶׁ֥בֶת,0,יוֹשֶׁ֥בֶת,2,יֹושֶׁ֥בֶת,1,1,merkha;,merkha;,none,none
+Micah,1,11,JCB[,qal,T,segolate:segol-segol,none,0,יֹושֶׁ֣בֶת,0,יוֹשֶׁ֣בֶת,2,יֹושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Micah,1,12,JCB[,qal,T,segolate:segol-segol,none,0,יֹושֶׁ֣בֶת,0,יוֹשֶׁ֣בֶת,1,יֹושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Micah,1,13,JCB[,qal,T,segolate:segol-segol,none,0,יֹושֶׁ֣בֶת,0,יוֹשֶׁ֣בֶת,1,יֹושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Micah,1,15,JCB[,qal,T,segolate:segol-segol,minor,0,יֹושֶׁ֖בֶת,0,יוֹשֶׁ֖בֶת,1,יֹושֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Micah,4,6,YL<[,qal,H,sere,minor,0,צֹּ֣לֵעָ֔ה,0,צֹּ֣לֵעָ֔ה,1,צֹּ֣לֵעָ֔ה,1,1,munah;zaqef qatan;,munah;zaqef qatan;,minor,minor
+Micah,4,6,NDX[,nif,H,qamets,minor,0,נִּדָּחָ֖ה,0,נִּדָּחָ֖ה,1,נִּדָּחָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Micah,4,7,YL<[,qal,H,sere,minor,0,צֹּֽלֵעָה֙,0,צֹּֽלֵעָה֙,1,צֹּֽלֵעָה֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+Micah,4,7,HL>[,nif,H,qamets,minor,0,נַּהֲלָאָ֖ה,0,נַּהֲלָאָ֖ה,1,נַּהֲלָאָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Micah,4,8,BW>[,qal,H,qamets,minor,0,בָאָ֗ה,0,בָאָ֗ה,1,בָאָ֗ה,1,1,revia;,revia;,minor,minor
+Micah,4,9,JLD[,qal,H,sere,major,0,יֹּולֵדָֽה,0,יּוֹלֵדָֽה׃,1,יֹּולֵדָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Micah,4,10,JLD[,qal,H,sere,major,0,יֹּֽולֵדָ֑ה,0,יּֽוֹלֵדָ֑ה,1,יֹּֽולֵדָ֑ה,1,1,hebrew point meteg;etnahta;,hebrew point meteg;etnahta;,major,major
+Micah,5,2,JLD[,qal,H,sere,minor,1,יֹולֵדָ֖ה,0,יוֹלֵדָ֖ה,1,יֹולֵדָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Micah,6,10,Z<M[,qal,H,none,major,1,זְעוּמָֽה,0,זְעוּמָֽה׃,1,זְעוּמָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Micah,7,5,CKB[,qal,T,segolate:segol-segol,none,1,שֹּׁכֶ֣בֶת,0,שֹּׁכֶ֣בֶת,1,שֹּׁכֶ֣בֶת,1,1,munah;,munah;,none,none
+Micah,7,6,QWM[,qal,H,qamets,none,1,קָמָ֣ה,0,קָמָ֣ה,1,קָמָ֣ה,1,1,munah;,munah;,none,none
+Micah,7,8,>JB[,qal,suffix,,minor,1,אֹיַ֨בְתִּי֙,0,אֹיַ֙בְתִּי֙,1,אֹיַ֨בְתִּי֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Micah,7,10,>JB[,qal,suffix,,minor,1,אֹיַ֨בְתִּי֙,0,אֹיַ֙בְתִּי֙,1,אֹיַ֨בְתִּי֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Micah,7,10,>MR[,qal,H,shewa,none,1,אֹמְרָ֣ה,0,אֹמְרָ֣ה,1,אֹמְרָ֣ה,1,1,munah;,munah;,none,none
+Nahum,2,11,BLQ[,pual,H,qamets,major,1,מְבֻלָּקָ֑ה,0,מְבֻלָּקָ֑ה,1,מְבֻלָּקָ֑ה,1,1,etnahta;,etnahta;,major,major
+Nahum,3,1,ML>[,qal,H,sere,minor,1,מְלֵאָ֔ה,0,מְלֵאָ֔ה,1,מְלֵאָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Nahum,3,2,RQD[,piel,H,sere,major,1,מְרַקֵּדָֽה,0,מְרַקֵּדָֽה׃,1,מְרַקֵּדָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Nahum,3,4,ZNH[,qal,H,none,minor,1,זֹונָ֔ה,0,זוֹנָ֔ה,1,זֹונָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Nahum,3,4,MKR[,qal,T,segolate:segol-segol,none,1,מֹּכֶ֤רֶת,0,מֹּכֶ֤רֶת,1,מֹּכֶ֤רֶת,1,1,mahapakh;,mahapakh;,none,none
+Nahum,3,8,JCB[,qal,H,shewa,minor,1,יֹּֽשְׁבָה֙,0,יֹּֽשְׁבָה֙,1,יֹּֽשְׁבָה֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+Nahum,3,11,<LM[,nif,H,qamets,major,1,נַֽעֲלָמָ֑ה,0,נַעֲלָמָ֑ה,1,נַֽעֲלָמָ֑ה,1,0,hebrew point meteg;etnahta;,etnahta;,major,major
+Nahum,3,19,XLH[,nif,H,shewa,minor,1,נַחְלָ֖ה,0,נַחְלָ֖ה,1,נַחְלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Zephaniah,1,18,BHL[,nif,H,qamets,minor,1,נִבְהָלָה֙,0,נִבְהָלָה֙,1,נִבְהָלָה֙,1,1,pashta;,pashta;,minor,minor
+Zephaniah,2,4,<ZB[,qal,H,none,none,1,עֲזוּבָ֣ה,0,עֲזוּבָ֣ה,1,עֲזוּבָ֣ה,1,1,munah;,munah;,none,none
+Zephaniah,2,15,JCB[,qal,T,segolate:segol-segol,none,1,יֹּושֶׁ֣בֶת,0,יּוֹשֶׁ֣בֶת,1,יֹּושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Zephaniah,2,15,>MR[,qal,H,shewa,minor,1,אֹֽמְרָה֙,0,אֹֽמְרָה֙,1,אֹֽמְרָה֙,1,1,hebrew point meteg;pashta;,hebrew point meteg;pashta;,minor,minor
+Zephaniah,3,1,MR>=[,qal,H,shewa,minor,1,מֹרְאָ֖ה,0,מֹרְאָ֖ה,1,מֹרְאָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Zephaniah,3,1,G>L=[,nif,H,qamets,major,1,נִגְאָלָ֑ה,0,נִגְאָלָ֑ה,1,נִגְאָלָ֑ה,1,1,etnahta;,etnahta;,major,major
+Zephaniah,3,1,JNH[,qal,H,none,major,1,יֹּונָֽה,0,יּוֹנָֽה׃,1,יֹּונָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Zephaniah,3,19,YL<[,qal,H,sere,minor,1,צֹּלֵעָ֗ה,0,צֹּלֵעָ֗ה,1,צֹּלֵעָ֗ה,1,1,revia;,revia;,minor,minor
+Zephaniah,3,19,NDX[,nif,H,qamets,minor,1,נִּדָּחָה֙,0,נִּדָּחָה֙,1,נִּדָּחָה֙,1,1,pashta;,pashta;,minor,minor
+Haggai,2,5,<MD[,qal,T,segolate:segol-segol,none,1,עֹמֶ֣דֶת,0,עֹמֶ֣דֶת,1,עֹמֶ֣דֶת,1,1,munah;,munah;,none,none
+Zechariah,1,11,JCB[,qal,T,segolate:segol-segol,none,1,יֹשֶׁ֥בֶת,0,יֹשֶׁ֥בֶת,1,יֹשֶׁ֥בֶת,1,1,merkha;,merkha;,none,none
+Zechariah,1,11,CQV[,qal,T,segolate:qamets-segol,major,1,שֹׁקָֽטֶת,0,שֹׁקָֽטֶת׃,1,שֹׁקָֽטֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Zechariah,2,11,JCB[,qal,T,segolate:segol-segol,minor,1,יֹושֶׁ֖בֶת,0,יוֹשֶׁ֖בֶת,1,יֹושֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Zechariah,5,1,<WP[,qal,H,qamets,major,1,עָפָֽה,0,עָפָֽה׃,1,עָפָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Zechariah,5,2,<WP[,qal,H,qamets,minor,1,עָפָ֔ה,0,עָפָ֔ה,1,עָפָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Zechariah,5,3,JY>[,qal,T,Vt:sere,minor,1,יֹּוצֵ֖את,0,יּוֹצֵ֖את,1,יֹּוצֵ֖את,1,1,tipeha;,tipeha;,minor,minor
+Zechariah,5,5,JY>[,qal,T,Vt:sere,none,1,יֹּוצֵ֥את,0,יּוֹצֵ֥את,1,יֹּוצֵ֥את,1,1,merkha;,merkha;,none,none
+Zechariah,5,6,JY>[,qal,T,Vt:sere,minor,1,יֹּוצֵ֔את,0,יּוֹצֵ֔את,1,יֹּוצֵ֔את,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Zechariah,5,7,NF>[,nif,T,Vt:sere,major,1,נִשֵּׂ֑את,0,נִשֵּׂ֑את,1,נִשֵּׂ֑את,1,1,etnahta;,etnahta;,major,major
+Zechariah,5,7,JCB[,qal,T,segolate:segol-segol,minor,1,יֹושֶׁ֖בֶת,0,יוֹשֶׁ֖בֶת,1,יֹושֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Zechariah,7,7,JCB[,qal,T,segolate:segol-segol,none,1,יֹשֶׁ֣בֶת,0,יֹשֶׁ֣בֶת,1,יֹשֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Zechariah,7,11,SRR[,qal,T,segolate:qamets-segol,major,1,סֹרָ֑רֶת,0,סֹרָ֑רֶת,1,סֹרָ֑רֶת,1,1,etnahta;,etnahta;,major,major
+Zechariah,11,8,BXL[,qal,H,hatef patah,none,1,בָּחֲלָ֥ה,0,בָּחֲלָ֥ה,1,בָּחֲלָ֥ה,1,1,merkha;,merkha;,none,none
+Zechariah,11,9,MWT[,qal,H,sere,none,1,מֵּתָ֣ה,0,מֵּתָ֣ה,1,מֵּתָ֣ה,1,1,munah;,munah;,none,none
+Zechariah,11,9,KXD[,nif,T,segolate:segol-segol,minor,1,נִּכְחֶ֨דֶת֙,0,נִּכְחֶ֙דֶת֙,1,נִּכְחֶ֨דֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Zechariah,11,16,CBR[,nif,T,segolate:segol-segol,minor,1,נִּשְׁבֶּ֖רֶת,0,נִּשְׁבֶּ֖רֶת,1,נִּשְׁבֶּ֖רֶת,1,1,tipeha;,tipeha;,minor,minor
+Zechariah,11,16,NYB[,nif,H,qamets,minor,1,נִּצָּבָה֙,0,נִּצָּבָה֙,1,נִּצָּבָה֙,1,1,pashta;,pashta;,minor,minor
+Zechariah,14,18,BW>[,qal,H,qamets,minor,1,בָאָ֖ה,0,בָאָ֖ה,1,בָאָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Psalms,5,10,KWN[,nif,H,none,none,1,נְכֹונָה֮,0,נְכוֹנָה֮,1,נְכֹונָה֮,1,1,zinor;,zinor;,none,none
+Psalms,12,4,DBR[,piel,T,segolate:segol-segol,none,1,מְדַבֶּ֥רֶת,0,מְדַבֶּ֥רֶת,1,מְדַבֶּ֥רֶת,1,1,merkha;,merkha;,none,none
+Psalms,18,31,YRP[,qal,H,none,major,0,צְרוּפָ֑ה,0,צְרוּפָ֑ה,1,צְרוּפָ֑ה,1,1,etnahta;,etnahta;,major,major
+Psalms,19,8,CWB[,hif,T,segolate:none-patah,none,0,מְשִׁ֣יבַת,0,מְשִׁ֣יבַת,1,מְשִׁ֣יבַת,1,1,munah;,munah;,none,none
+Psalms,19,8,>MN[,nif,H,qamets,minor,0,נֶ֝אֱמָנָ֗ה,0,נֶ֝אֱמָנָ֗ה,1,נֶ֝אֱמָנָ֗ה,1,1,geresh muqdam;revia;,geresh muqdam;revia;,minor,minor
+Psalms,19,8,XKM[,hif,T,segolate:none-patah,none,0,מַחְכִּ֥ימַת,0,מַחְכִּ֥ימַת,1,מַחְכִּ֥ימַת,1,1,merkha;,merkha;,none,none
+Psalms,19,9,>WR[,hif,T,segolate:none-patah,none,0,מְאִירַ֥ת,0,מְאִירַ֥ת,1,מְאִירַ֥ת,1,1,merkha;,merkha;,none,none
+Psalms,19,10,<MD[,qal,T,segolate:segol-segol,none,0,עֹומֶ֢דֶת,0,עוֹמֶ֢דֶת,1,עֹומֶ֢דֶת,1,1,atnah hafukh;,atnah hafukh;,none,none
+Psalms,48,7,JLD[,qal,H,sere,major,1,יֹּולֵֽדָה,0,יּוֹלֵדָֽה׃,1,יֹּולֵֽדָה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Psalms,51,19,CBR[,nif,H,qamets,major,1,נִשְׁבָּ֫רָ֥ה,0,נִשְׁבָּ֫רָ֥ה,1,נִשְׁבָּ֫רָ֥ה,1,1,ole;merkha;,ole;merkha;,major,major
+Psalms,55,9,S<H[,qal,H,holam,none,1,סֹעָ֣ה,0,סֹעָ֣ה,1,סֹעָ֣ה,1,1,munah;,munah;,none,none
+Psalms,62,4,DXH[,qal,H,none,major,1,דְּחוּיָֽה,0,דְּחוּיָֽה׃,1,דְּחוּיָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Psalms,68,10,L>H[,nif,H,shewa,minor,1,נִלְאָ֗ה,0,נִלְאָ֗ה,1,נִלְאָ֗ה,1,1,revia;,revia;,minor,minor
+Psalms,68,14,XPH[,nif,H,shewa,none,1,נֶחְפָּ֣ה,0,נֶחְפָּ֣ה,1,נֶחְפָּ֣ה,1,1,munah;,munah;,none,none
+Psalms,80,17,FRP[,qal,H,qibbuts,none,1,שְׂרֻפָ֣ה,0,שְׂרֻפָ֣ה,1,שְׂרֻפָ֣ה,1,1,munah;,munah;,none,none
+Psalms,80,17,KSX[,qal,H,none,major,1,כְּסוּחָ֑ה,0,כְּסוּחָ֑ה,1,כְּסוּחָ֑ה,1,1,etnahta;,etnahta;,major,major
+Psalms,89,29,>MN[,nif,T,segolate:segol-segol,none,1,נֶאֱמֶ֥נֶת,0,נֶאֱמֶ֥נֶת,1,נֶאֱמֶ֥נֶת,1,1,merkha;,merkha;,none,none
+Psalms,107,9,CWQQ/,qal,H,sere,major,1,שֹׁקֵקָ֑ה,0,שֹׁקֵקָ֑ה,1,שֹׁקֵקָ֑ה,1,1,etnahta;,etnahta;,major,major
+Psalms,111,3,<MD[,qal,T,segolate:segol-segol,none,1,עֹמֶ֥דֶת,0,עֹמֶ֥דֶת,1,עֹמֶ֥דֶת,1,1,merkha;,merkha;,none,none
+Psalms,111,10,<MD[,qal,T,segolate:segol-segol,none,1,עֹמֶ֥דֶת,0,עֹמֶ֥דֶת,1,עֹמֶ֥דֶת,1,1,merkha;,merkha;,none,none
+Psalms,112,3,<MD[,qal,T,segolate:segol-segol,none,1,עֹמֶ֥דֶת,0,עֹמֶ֥דֶת,1,עֹמֶ֥דֶת,1,1,merkha;,merkha;,none,none
+Psalms,112,9,<MD[,qal,T,segolate:segol-segol,none,1,עֹמֶ֣דֶת,0,עֹמֶ֣דֶת,1,עֹמֶ֣דֶת,1,1,munah;,munah;,none,none
+Psalms,118,15,<FH[,qal,H,holam,none,1,עֹ֣שָׂה,0,עֹ֣שָׂה,1,עֹ֣שָׂה,1,1,munah;,munah;,none,none
+Psalms,118,16,RWM[,piel,H,sere,major,1,רֹומֵמָ֑ה,0,רוֹמֵמָ֑ה,1,רֹומֵמָ֑ה,1,1,etnahta;,etnahta;,major,major
+Psalms,118,16,<FH[,qal,H,holam,none,1,עֹ֣שָׂה,0,עֹ֣שָׂה,1,עֹ֣שָׂה,1,1,munah;,munah;,none,none
+Psalms,118,23,PL>[,nif,T,Vt:qamets,none,1,נִפְלָ֣את,0,נִפְלָ֣את,1,נִפְלָ֣את,1,1,munah;,munah;,none,none
+Psalms,119,140,YRP[,qal,H,none,minor,1,צְרוּפָ֖ה,0,צְרוּפָ֖ה,1,צְרוּפָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Psalms,122,3,BNH[,qal,H,none,major,1,בְּנוּיָ֑ה,0,בְּנוּיָ֑ה,1,בְּנוּיָ֑ה,1,1,etnahta;,etnahta;,major,major
+Psalms,128,3,PRH[,qal,H,hireq,none,1,פֹּרִיָּה֮,0,פֹּרִיָּה֮,1,פֹּרִיָּה֮,1,1,zinor;,zinor;,none,none
+Psalms,136,12,NVH[,qal,H,none,major,1,נְטוּיָ֑ה,0,נְטוּיָ֑ה,1,נְטוּיָ֑ה,1,1,etnahta;,etnahta;,major,major
+Psalms,137,8,CDD[,qal,H,none,major,1,שְּׁד֫וּדָ֥ה,0,שְּׁד֫וּדָ֥ה,1,שְּׁד֫וּדָ֥ה,1,1,ole;merkha;,ole;merkha;,major,major
+Psalms,139,14,JD<[,qal,T,segolate:patah-patah,none,1,יֹדַ֥עַת,0,יֹדַ֥עַת,1,יֹדַ֥עַת,1,1,merkha;,merkha;,none,none
+Psalms,148,8,<FH[,qal,H,holam,none,1,עֹשָׂ֥ה,0,עֹשָׂ֥ה,1,עֹשָׂ֥ה,1,1,merkha;,merkha;,none,none
+Job,6,4,CTH[,qal,H,holam,none,1,שֹׁתָ֣ה,0,שֹׁתָ֣ה,1,שֹׁתָ֣ה,1,1,munah;,munah;,none,none
+Job,20,27,QWM[,hit,H,qamets,minor,1,מִתְקֹומָ֘מָ֥ה,0,מִתְקוֹמָ֘מָ֥ה,1,מִתְקֹומָ֘מָ֥ה,1,1,zarqa;merkha;,zarqa;merkha;,minor,minor
+Job,38,15,RWM[,qal,H,qamets,minor,1,רָ֝מָ֗ה,0,רָ֝מָ֗ה,1,רָ֝מָ֗ה,1,1,geresh muqdam;revia;,geresh muqdam;revia;,minor,minor
+Job,42,7,KWN[,nif,H,none,minor,1,נְכֹונָ֖ה,0,נְכוֹנָ֖ה,1,נְכֹונָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Job,42,8,KWN[,nif,H,none,minor,1,נְכֹונָ֖ה,0,נְכוֹנָ֖ה,1,נְכֹונָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Proverbs,1,17,ZRH[,pual,H,holam,none,1,מְזֹרָ֣ה,0,מְזֹרָ֣ה,1,מְזֹרָ֣ה,1,1,munah;,munah;,none,none
+Proverbs,2,17,<ZB[,qal,T,segolate:segol-segol,none,1,עֹזֶבֶת,0,עֹזֶבֶת,1,עֹזֶבֶת,1,1,,,none,none
+Proverbs,6,26,ZNH[,qal,H,none,minor,1,זֹונָ֗ה,0,זוֹנָ֗ה,1,זֹונָ֗ה,1,1,revia;,revia;,minor,minor
+Proverbs,7,10,ZNH[,qal,H,none,minor,1,זֹ֝ונָ֗ה,0,ז֝וֹנָ֗ה,1,זֹ֝ונָ֗ה,1,1,geresh muqdam;revia;,geresh muqdam;revia;,minor,minor
+Proverbs,7,10,NYR[,qal,T,segolate:qibbuts-patah,none,1,נְצֻ֥רַת,0,נְצֻ֥רַת,1,נְצֻ֥רַת,1,1,merkha;,merkha;,none,none
+Proverbs,7,11,HMH[,qal,H,hireq,none,1,הֹמִיָּ֣ה,0,הֹמִיָּ֣ה,1,הֹמִיָּ֣ה,1,1,munah;,munah;,none,none
+Proverbs,7,11,SRR[,qal,T,segolate:qamets-segol,major,1,סֹרָ֑רֶת,0,סֹרָ֑רֶת,1,סֹרָ֑רֶת,1,1,etnahta;,etnahta;,major,major
+Proverbs,8,30,FXQ[,piel,T,segolate:segol-segol,minor,1,מְשַׂחֶ֖קֶת,0,מְשַׂחֶ֖קֶת,1,מְשַׂחֶ֖קֶת,1,1,tipeha;,tipeha;,minor,minor
+Proverbs,8,31,FXQ[,piel,T,segolate:segol-segol,minor,1,מְ֭שַׂחֶקֶת,0,מְ֭שַׂחֶקֶת,1,מְ֭שַׂחֶקֶת,1,1,dehi;,dehi;,minor,minor
+Proverbs,9,13,HMH[,qal,H,hireq,major,1,הֹֽמִיָּ֑ה,0,הֹמִיָּ֑ה,1,הֹֽמִיָּ֑ה,1,0,hebrew point meteg;etnahta;,etnahta;,major,major
+Proverbs,11,22,SWR[,qal,T,segolate:qamets-patah,none,1,סָ֣רַת,0,סָ֣רַת,1,סָ֣רַת,1,1,munah;,munah;,none,none
+Proverbs,12,4,BWC[,hif,H,none,major,1,מְבִישָֽׁה,0,מְבִישָֽׁה׃,1,מְבִישָֽׁה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,13,4,>WH[,hit,H,patah,none,1,מִתְאַוָּ֣ה,0,מִתְאַוָּ֣ה,1,מִתְאַוָּ֣ה,1,1,munah;,munah;,none,none
+Proverbs,13,12,MCK[,pual,H,qamets,minor,1,מְ֭מֻשָּׁכָה,0,מְ֭מֻשָּׁכָה,1,מְ֭מֻשָּׁכָה,1,1,dehi;,dehi;,minor,minor
+Proverbs,13,12,XLH[,hif,H,hatef patah,none,1,מַחֲלָה,0,מַחֲלָה,1,מַחֲלָה,1,1,,,none,none
+Proverbs,13,12,BW>[,qal,H,qamets,major,1,בָאָֽה,0,בָאָֽה׃,1,בָאָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,13,19,HJH[,nif,H,shewa,minor,1,נִ֭הְיָה,0,נִ֭הְיָה,1,נִ֭הְיָה,1,1,dehi;,dehi;,minor,minor
+Proverbs,15,6,<KR[,nif,T,segolate:qamets-segol,major,1,נֶעְכָּֽרֶת,0,נֶעְכָּֽרֶת׃,1,נֶעְכָּֽרֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,15,19,SLL[,qal,H,qibbuts,major,1,סְלֻלָֽה,0,סְלֻלָֽה׃,1,סְלֻלָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,15,31,CM<[,qal,T,segolate:patah-patah,minor,1,שֹׁ֖מַעַת,0,שֹׁ֭מַעַת,1,שֹׁ֖מַעַת,1,0,tipeha;,dehi;,minor,minor
+Proverbs,17,25,JLD[,qal,suffix,,major,1,יֹולַדְתֹּֽו,0,יֽוֹלַדְתּֽוֹ׃,1,יֹולַדְתֹּֽו,1,0,hebrew point meteg;,hebrew point meteg;hebrew point meteg;,major,major
+Proverbs,18,11,FGB[,nif,H,qamets,minor,1,נִ֝שְׂגָּבָ֗ה,0,נִ֝שְׂגָּבָ֗ה,1,נִ֝שְׂגָּבָ֗ה,1,1,geresh muqdam;revia;,geresh muqdam;revia;,minor,minor
+Proverbs,19,14,FKL[,hif,T,segolate:qamets-segol,major,1,מַשְׂכָּֽלֶת,0,מַשְׂכָּֽלֶת׃,1,מַשְׂכָּֽלֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,20,12,CM<[,qal,T,segolate:patah-patah,minor,1,שֹׁ֖מַעַת,0,שֹׁ֭מַעַת,1,שֹׁ֖מַעַת,1,0,tipeha;,dehi;,minor,minor
+Proverbs,20,12,R>H[,qal,H,holam,major,1,רֹאָ֑ה,0,רֹאָ֑ה,1,רֹאָ֑ה,1,1,etnahta;,etnahta;,major,major
+Proverbs,20,21,BHL[,pual,T,Vt:none,none,1,מבחלת,0,מְבֹהֶ֣לֶת,2,מְבֹהֶ֣לֶת,1,1,munah;,munah;,none,none
+Proverbs,22,15,QCR[,qal,H,none,none,1,קְשׁוּרָ֣ה,0,קְשׁוּרָ֣ה,1,קְשׁוּרָ֣ה,1,1,munah;,munah;,none,none
+Proverbs,23,25,JLD[,qal,suffix,,major,1,יֹֽולַדְתֶּֽךָ,0,יוֹלַדְתֶּֽךָ׃,1,יֹֽולַדְתֶּֽךָ,1,0,hebrew point meteg;hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,23,27,ZNH[,qal,H,none,major,1,זֹונָ֑ה,0,זוֹנָ֑ה,1,זֹונָ֑ה,1,1,etnahta;,etnahta;,major,major
+Proverbs,25,12,CM<[,qal,T,segolate:qamets-patah,major,1,שֹׁמָֽעַת,0,שֹׁמָֽעַת׃,1,שֹׁמָֽעַת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,25,19,R<H[,qal,H,holam,minor,1,רֹ֭עָה,0,רֹ֭עָה,1,רֹ֭עָה,1,1,dehi;,dehi;,minor,minor
+Proverbs,25,19,M<D[,pasq,T,segolate:qamets-segol,major,1,מוּעָ֑דֶת,0,מוּעָ֑דֶת,1,מוּעָ֑דֶת,1,1,etnahta;,etnahta;,major,major
+Proverbs,25,28,PRY[,qal,H,none,minor,1,פְּ֭רוּצָה,0,פְּ֭רוּצָה,1,פְּ֭רוּצָה,1,1,dehi;,dehi;,minor,minor
+Proverbs,27,5,GLH[,pual,H,qibbuts,major,1,מְגֻלָּ֑ה,0,מְגֻלָּ֑ה,1,מְגֻלָּ֑ה,1,1,etnahta;,etnahta;,major,major
+Proverbs,27,5,STR[,pual,T,segolate:qamets-segol,major,1,מְסֻתָּֽרֶת,0,מְסֻתָּֽרֶת׃,1,מְסֻתָּֽרֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Proverbs,27,8,NDD[,qal,T,segolate:segol-segol,none,1,נֹודֶ֣דֶת,0,נוֹדֶ֣דֶת,1,נֹודֶ֣דֶת,1,1,munah;,munah;,none,none
+Proverbs,30,5,YRP[,qal,H,none,major,1,צְרוּפָ֑ה,0,צְרוּפָ֑ה,1,צְרוּפָ֑ה,1,1,etnahta;,etnahta;,major,major
+Proverbs,30,20,N>P[,piel,T,segolate:qamets-segol,major,1,מְנָ֫אָ֥פֶת,0,מְנָ֫אָ֥פֶת,1,מְנָ֫אָ֥פֶת,1,1,ole;merkha;,ole;merkha;,major,major
+Proverbs,30,23,FN>[,qal,H,none,minor,1,שְׂ֭נוּאָה,0,שְׂ֭נוּאָה,1,שְׂ֭נוּאָה,1,1,dehi;,dehi;,minor,minor
+Proverbs,31,27,YPH[,qal,H,hireq,minor,1,צֹ֭ופִיָּה,0,צ֭וֹפִיָּה,1,צֹ֭ופִיָּה,1,1,dehi;,dehi;,minor,minor
+Ruth,1,18,>MY[,hit,T,segolate:segol-segol,none,1,מִתְאַמֶּ֥צֶת,0,מִתְאַמֶּ֥צֶת,1,מִתְאַמֶּ֥צֶת,1,1,merkha;,merkha;,none,none
+Ruth,3,8,CKB[,qal,T,segolate:segol-segol,minor,1,שֹׁכֶ֖בֶת,0,שֹׁכֶ֖בֶת,1,שֹׁכֶ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Ruth,3,10,BRK[,qal,H,none,none,1,בְּרוּכָ֨ה,0,בְּרוּכָ֨ה,1,בְּרוּכָ֨ה,1,1,qadma;,qadma;,none,none
+Ruth,4,11,BW>[,qal,H,qamets,none,1,בָּאָ֣ה,0,בָּאָ֣ה,1,בָּאָ֣ה,1,1,munah;,munah;,none,none
+Ruth,4,16,>MN[,qal,T,segolate:segol-segol,major,1,אֹמֶֽנֶת,0,אֹמֶֽנֶת׃,1,אֹמֶֽנֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Song_of_songs,1,6,NVR[,qal,H,sere,none,1,נֹטֵרָ֣ה,0,נֹטֵרָ֣ה,1,נֹטֵרָ֣ה,1,1,munah;,munah;,none,none
+Song_of_songs,1,7,<VH[,qal,H,shewa,minor,1,עֹ֣טְיָ֔ה,0,עֹ֣טְיָ֔ה,1,עֹ֣טְיָ֔ה,1,1,munah;zaqef qatan;,munah;zaqef qatan;,minor,minor
+Song_of_songs,2,5,XLH[,qal,T,segolate:none-patah,none,1,חֹולַ֥ת,0,חוֹלַ֥ת,1,חֹולַ֥ת,1,1,merkha;,merkha;,none,none
+Song_of_songs,3,4,HRH[,qal,suffix,,major,1,הֹורָתִֽי,0,הוֹרָתִֽי׃,1,הֹורָתִֽי,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Song_of_songs,3,6,<LH[,qal,H,holam,minor,1,עֹלָה֙,0,עֹלָה֙,1,עֹלָה֙,1,1,pashta;,pashta;,minor,minor
+Song_of_songs,3,6,QVR[,pual,T,segolate:segol-segol,none,1,מְקֻטֶּ֤רֶת,0,מְקֻטֶּ֤רֶת,1,מְקֻטֶּ֤רֶת,1,1,mahapakh;,mahapakh;,none,none
+Song_of_songs,5,8,XLH[,qal,T,segolate:none-patah,none,0,חֹולַ֥ת,0,חוֹלַ֥ת,1,חֹולַ֥ת,1,1,merkha;,merkha;,none,none
+Song_of_songs,5,14,<LP[,pual,T,segolate:segol-segol,minor,0,מְעֻלֶּ֖פֶת,0,מְעֻלֶּ֖פֶת,1,מְעֻלֶּ֖פֶת,1,1,tipeha;,tipeha;,minor,minor
+Song_of_songs,6,9,JLD[,qal,suffix,,major,0,יֹֽולַדְתָּ֑הּ,0,יֽוֹלַדְתָּ֑הּ,1,יֹֽולַדְתָּ֑הּ,1,1,hebrew point meteg;etnahta;,hebrew point meteg;etnahta;,major,major
+Song_of_songs,6,10,CQP[,nif,H,qamets,minor,0,נִּשְׁקָפָ֖ה,0,נִּשְׁקָפָ֖ה,1,נִּשְׁקָפָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Song_of_songs,7,3,SWG=[,qal,H,none,minor,0,סוּגָ֖ה,0,סוּגָ֖ה,1,סוּגָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Song_of_songs,8,5,<LH[,qal,H,holam,minor,0,עֹלָה֙,0,עֹלָה֙,1,עֹלָה֙,1,1,pashta;,pashta;,minor,minor
+Song_of_songs,8,5,RPQ[,hit,T,segolate:segol-segol,minor,0,מִתְרַפֶּ֖קֶת,0,מִתְרַפֶּ֖קֶת,1,מִתְרַפֶּ֖קֶת,1,1,tipeha;,tipeha;,minor,minor
+Song_of_songs,8,10,JY>[,hif,T,other:shewa-sere,none,0,מֹוצְאֵ֥ת,0,מוֹצְאֵ֥ת,1,מֹוצְאֵ֥ת,1,1,merkha;,merkha;,none,none
+Song_of_songs,8,13,JCB[,qal,T,segolate:segol-segol,none,0,יֹּושֶׁ֣בֶת,0,יּוֹשֶׁ֣בֶת,1,יֹּושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Ecclesiastes,1,1,QHLT/,qal,T,segolate:segol-segol,none,0,קֹהֶ֣לֶת,0,קֹהֶ֣לֶת,1,קֹהֶ֣לֶת,1,1,munah;,munah;,none,none
+Ecclesiastes,1,2,QHLT/,qal,T,segolate:segol-segol,minor,0,קֹהֶ֔לֶת,0,קֹהֶ֔לֶת,1,קֹהֶ֔לֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ecclesiastes,1,4,<MD[,qal,T,segolate:qamets-segol,major,0,עֹמָֽדֶת,0,עֹמָֽדֶת׃,1,עֹמָֽדֶת,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ecclesiastes,1,12,QHLT/,qal,T,segolate:segol-segol,minor,0,קֹהֶ֗לֶת,0,קֹהֶ֗לֶת,1,קֹהֶ֗לֶת,1,1,revia;,revia;,minor,minor
+Ecclesiastes,2,2,<FH[,qal,H,holam,major,0,עֹשָֽׂה,0,עֹשָֽׂה׃,1,עֹשָֽׂה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Ecclesiastes,3,21,<LH[,qal,H,holam,none,0,עֹלָ֥ה,0,עֹלָ֥ה,2,עֹלָ֥ה,1,1,merkha;,merkha;,none,none
+Ecclesiastes,3,21,JRD[,qal,T,segolate:segol-segol,none,0,יֹּרֶ֥דֶת,0,יֹּרֶ֥דֶת,1,יֹּרֶ֥דֶת,1,1,merkha;,merkha;,none,none
+Ecclesiastes,5,12,XLH[,qal,H,none,minor,0,חֹולָ֔ה,0,חוֹלָ֔ה,1,חֹולָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ecclesiastes,5,15,XLH[,qal,H,none,minor,0,חֹולָ֔ה,0,חוֹלָ֔ה,1,חֹולָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ecclesiastes,7,27,QHLT/,qal,T,segolate:segol-segol,major,0,קֹהֶ֑לֶת,0,קֹהֶ֑לֶת,1,קֹהֶ֑לֶת,1,1,etnahta;,etnahta;,major,major
+Ecclesiastes,9,16,BZH[,qal,H,none,minor,0,בְּזוּיָ֔ה,0,בְּזוּיָ֔ה,1,בְּזוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Ecclesiastes,10,5,JY>[,qal,other,J.OY@>,minor,0,יֹּצָ֖א,0,יֹּצָ֖א,1,יֹּצָ֖א,1,1,tipeha;,tipeha;,minor,minor
+Ecclesiastes,12,8,QHLT/,qal,T,segolate:segol-segol,minor,0,קֹּוהֶ֖לֶת,0,קּוֹהֶ֖לֶת,1,קֹּוהֶ֖לֶת,1,1,tipeha;,tipeha;,minor,minor
+Ecclesiastes,12,9,QHLT/,qal,T,segolate:segol-segol,minor,0,קֹהֶ֖לֶת,0,קֹהֶ֖לֶת,1,קֹהֶ֖לֶת,1,1,tipeha;,tipeha;,minor,minor
+Ecclesiastes,12,10,QHLT/,qal,T,segolate:segol-segol,minor,0,קֹהֶ֔לֶת,0,קֹהֶ֔לֶת,1,קֹהֶ֔לֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Lamentations,1,11,ZLL[,qal,H,sere,major,0,זֹולֵלָֽה,0,זוֹלֵלָֽה׃,1,זֹולֵלָֽה,1,1,hebrew point meteg;,hebrew point meteg;,major,major
+Lamentations,1,13,CMM[,qal,H,sere,minor,0,שֹֽׁמֵמָ֔ה,0,שֹֽׁמֵמָ֔ה,1,שֹֽׁמֵמָ֔ה,1,1,hebrew point meteg;zaqef qatan;,hebrew point meteg;zaqef qatan;,minor,minor
+Lamentations,1,16,BKH[,qal,H,hireq,minor,0,בֹוכִיָּ֗ה,0,בוֹכִיָּ֗ה,1,בֹוכִיָּ֗ה,1,1,revia;,revia;,minor,minor
+Lamentations,1,16,JRD[,qal,H,shewa,none,0,יֹ֣רְדָה,0,יֹ֣רְדָה,1,יֹ֣רְדָה,1,1,munah;,munah;,none,none
+Lamentations,1,21,>NX[,nif,H,qamets,none,0,נֶאֱנָחָ֣ה,0,נֶאֱנָחָ֣ה,1,נֶאֱנָחָ֣ה,1,1,munah;,munah;,none,none
+Lamentations,4,6,HPK[,qal,H,none,none,0,הֲפוּכָ֣ה,0,הֲפוּכָ֣ה,1,הֲפוּכָ֣ה,1,1,munah;,munah;,none,none
+Lamentations,4,21,JCB[,qal,other,JWCBTJ,minor,0,יושׁבתי,0,יוֹשֶׁ֖בֶת,2,יֹושֶׁ֖בֶת,1,1,tipeha;,tipeha;,minor,minor
+Esther,2,13,BW>[,qal,H,qamets,none,0,בָּאָ֣ה,0,בָּאָ֣ה,1,בָּאָ֣ה,1,1,munah;,munah;,none,none
+Esther,2,14,BW>[,qal,H,qamets,minor,0,בָאָ֗ה,0,בָאָ֗ה,1,בָאָ֗ה,1,1,revia;,revia;,minor,minor
+Esther,2,14,CWB[,qal,H,qamets,minor,0,שָׁבָ֞ה,0,שָׁבָ֞ה,1,שָׁבָ֞ה,1,1,gershayim;,gershayim;,minor,minor
+Esther,2,15,NF>[,qal,T,Vt:sere,none,0,נֹשֵׂ֣את,0,נֹשֵׂ֣את,1,נֹשֵׂ֣את,1,1,munah;,munah;,none,none
+Esther,2,20,NGD[,hif,T,segolate:segol-segol,none,0,מַגֶּ֤דֶת,0,מַגֶּ֤דֶת,1,מַגֶּ֤דֶת,1,1,mahapakh;,mahapakh;,none,none
+Esther,2,20,<FH[,qal,H,holam,minor,0,עֹשָׂ֔ה,0,עֹשָׂ֔ה,1,עֹשָׂ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Esther,5,2,<MD[,qal,T,segolate:segol-segol,minor,0,עֹמֶ֨דֶת֙,0,עֹמֶ֙דֶת֙,1,עֹמֶ֨דֶת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+Daniel,8,3,<LH[,qal,H,holam,minor,0,עֹלָ֖ה,0,עֹלָ֖ה,1,עֹלָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Daniel,8,22,CBR[,nif,T,segolate:segol-segol,minor,0,נִּשְׁבֶּ֔רֶת,0,נִּשְׁבֶּ֔רֶת,1,נִּשְׁבֶּ֔רֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Daniel,9,11,KTB[,qal,H,none,minor,0,כְּתוּבָה֙,0,כְּתוּבָה֙,1,כְּתוּבָה֙,1,1,pashta;,pashta;,minor,minor
+Daniel,9,26,XRY[,nif,T,segolate:segol-segol,minor,0,נֶחֱרֶ֖צֶת,0,נֶחֱרֶ֖צֶת,1,נֶחֱרֶ֖צֶת,1,1,tipeha;,tipeha;,minor,minor
+Daniel,9,27,XRY[,nif,H,qamets,minor,0,נֶ֣חֱרָצָ֔ה,0,נֶ֣חֱרָצָ֔ה,1,נֶ֣חֱרָצָ֔ה,1,1,munah;zaqef qatan;,munah;zaqef qatan;,minor,minor
+Daniel,11,36,XRY[,nif,H,qamets,minor,0,נֶחֱרָצָ֖ה,0,נֶחֱרָצָ֖ה,1,נֶחֱרָצָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Nehemiah,1,3,PRY[,pual,T,segolate:qamets-segol,minor,0,מְפֹרָ֔צֶת,0,מְפֹרָ֔צֶת,1,מְפֹרָ֔צֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Nehemiah,2,6,JCB[,qal,T,segolate:segol-segol,none,0,יֹושֶׁ֣בֶת,0,יוֹשֶׁ֣בֶת,1,יֹושֶׁ֣בֶת,1,1,munah;,munah;,none,none
+Nehemiah,3,16,<FH[,qal,H,none,minor,0,עֲשׂוּיָ֔ה,0,עֲשׂוּיָ֔ה,1,עֲשׂוּיָ֔ה,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Nehemiah,4,11,XZQ[,hif,T,segolate:segol-segol,none,0,מַחֲזֶ֥קֶת,0,מַחֲזֶ֥קֶת,1,מַחֲזֶ֥קֶת,1,1,merkha;,merkha;,none,none
+Nehemiah,6,5,PTX[,qal,H,none,minor,0,פְּתוּחָ֖ה,0,פְּתוּחָ֖ה,1,פְּתוּחָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+Nehemiah,9,29,SRR[,qal,T,segolate:segol-segol,minor,0,סֹורֶ֔רֶת,0,סוֹרֶ֔רֶת,1,סֹורֶ֔רֶת,1,1,zaqef qatan;,zaqef qatan;,minor,minor
+Nehemiah,9,37,RBH[,hif,H,shewa,minor,0,מַרְבָּ֗ה,0,מַרְבָּ֗ה,1,מַרְבָּ֗ה,1,1,revia;,revia;,minor,minor
+Nehemiah,12,38,HLK[,qal,T,segolate:segol-segol,none,0,הֹולֶ֥כֶת,0,הוֹלֶ֥כֶת,1,הֹולֶ֥כֶת,1,1,merkha;,merkha;,none,none
+1_Chronicles,4,40,CQV[,qal,T,segolate:segol-segol,minor,1,שֹׁקֶ֖טֶת,0,שֹׁקֶ֖טֶת,1,שֹׁקֶ֖טֶת,1,1,tipeha;,tipeha;,minor,minor
+1_Chronicles,11,13,ML>[,qal,H,sere,none,1,מְלֵאָ֣ה,0,מְלֵאָ֣ה,1,מְלֵאָ֣ה,1,1,munah;,munah;,none,none
+1_Chronicles,11,15,XNH[,qal,H,holam,minor,1,חֹנָ֖ה,0,חֹנָ֖ה,2,חֹנָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+1_Chronicles,21,12,NFG[,hif,T,segolate:segol-segol,minor,1,מַשֶּׂגֶת֒,0,מַשֶּׂ֒גֶת֒,1,מַשֶּׂגֶת֒,1,0,segol;,segol;segol;,minor,minor
+1_Chronicles,21,16,CLP[,qal,H,none,minor,1,שְׁלוּפָה֙,0,שְׁלוּפָה֙,1,שְׁלוּפָה֙,1,1,pashta;,pashta;,minor,minor
+1_Chronicles,21,16,NVH[,qal,H,none,minor,1,נְטוּיָ֖ה,0,נְטוּיָ֖ה,1,נְטוּיָ֖ה,1,1,tipeha;,tipeha;,minor,minor
+1_Chronicles,23,29,RBK[,hof,T,segolate:qamets-segol,major,1,מֻּרְבָּ֑כֶת,0,מֻּרְבָּ֑כֶת,1,מֻּרְבָּ֑כֶת,1,1,etnahta;,etnahta;,major,major
+1_Chronicles,26,16,<LH[,qal,H,none,major,1,עֹולָ֑ה,0,עוֹלָ֑ה,1,עֹולָ֑ה,1,1,etnahta;,etnahta;,major,major
+1_Chronicles,27,1,BW>[,qal,H,qamets,none,1,בָּאָ֤ה,0,בָּאָ֤ה,1,בָּאָ֤ה,1,1,mahapakh;,mahapakh;,none,none
+1_Chronicles,27,1,JY>[,qal,T,Vt:sere,minor,1,יֹּצֵאת֙,0,יֹּצֵאת֙,1,יֹּצֵאת֙,1,1,pashta;,pashta;,minor,minor
+2_Chronicles,3,11,NG<[,hif,T,segolate:patah-patah,minor,1,מַגַּ֨עַת֙,0,מַגַּ֙עַת֙,1,מַגַּ֨עַת֙,1,0,qadma;pashta;,pashta;pashta;,minor,minor
+2_Chronicles,6,32,NVH[,qal,H,none,major,1,נְּטוּיָ֑ה,0,נְּטוּיָ֑ה,1,נְּטוּיָ֑ה,1,1,etnahta;,etnahta;,major,major
+2_Chronicles,8,11,BW>[,qal,H,qamets,none,1,בָּֽאָ֥ה,0,בָּ֥אָֽה,1,בָּֽאָ֥ה,1,0,hebrew point meteg;merkha;,merkha;hebrew point meteg;,none,none
+2_Chronicles,22,3,J<Y[,qal,suffix,,minor,1,יֹֽועַצְתֹּ֖ו,0,יוֹעַצְתּ֖וֹ,1,יֹֽועַצְתֹּ֖ו,1,0,hebrew point meteg;tipeha;,tipeha;,minor,minor
+2_Chronicles,22,12,MLK[,qal,T,segolate:segol-segol,none,1,מֹלֶ֥כֶת,0,מֹלֶ֥כֶת,1,מֹלֶ֥כֶת,1,1,merkha;,merkha;,none,none
+2_Chronicles,30,6,C>R[,nif,T,segolate:segol-segol,none,1,נִּשְׁאֶ֣רֶת,0,נִּשְׁאֶ֣רֶת,1,נִּשְׁאֶ֣רֶת,1,1,munah;,munah;,none,none
+2_Chronicles,32,5,PRY[,qal,H,none,minor,1,פְּרוּצָ֜ה,0,פְּרוּצָ֜ה,1,פְּרוּצָ֜ה,1,1,geresh;,geresh;,minor,minor
+2_Chronicles,34,22,JCB[,qal,T,segolate:segol-segol,none,1,יֹושֶׁ֥בֶת,0,יוֹשֶׁ֥בֶת,1,יֹושֶׁ֥בֶת,1,1,merkha;,merkha;,none,none

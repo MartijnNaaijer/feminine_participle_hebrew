@@ -1,0 +1,86 @@
+﻿node,scroll,fragment,line,glyph,stem,ending,lex,neighbours,n_parallels,parallels,mt_fsg_endings,line_text,parallel,composition,first_copy,check,model,note,context_restored
+1607086,CD,1,17,נקמת,qal,T,NQM[,NQM/ SGR[ XRB/,1,"Leviticus 26:25 [NQM/,XRB/]",T,הדבק ב׳הם את אלות ברית׳ו ל הסגיר׳ם ל חרב נקמת נקם,True,Damascus,True,biblical phrase,Lev 26:25 חֶרֶב נֹקֶמֶת נְקַם־בְּרִית (ת),,0.0
+1608869,CD,7,16,נופלת,qal,T,NPL[,DWD==/ MLK/ SKH/,1,"Amos 9:11 [DWD==/,SKH/]",T,ה מלך כ אשר אמר ו הקימותי את סוכת דוד ה נופלת  ה מלך,True,Damascus,True,citation,Amos 9:11 (ת),explicit citation (אמר),0.0
+1609477,CD,9,14,נמצאת,nifal,T,MY>[,>BDH/,0,,-,ו היה ל׳ו ל בד מ איל ה אשם  ו כל ו כן כל אבדה נמצאת ו אין,False,Damascus,True,no match,,,
+1611457,CD,15,7,נשחתה,nifal,H,CXT[,DBR[ DRK/ JWM/,0,,-,ה משפט ב כל קץ ה רשע ל כל ה שב מ דרכ׳ו ה נשחתה  ב יום דבר׳ו,False,Damascus,True,no match,,,
+1612102,CD,19,13,נוקמת,qal,T,NQM[,BRJT/ NQM/ SGR[ XRB/,1,"Leviticus 26:25 [BRJT/,NQM/,XRB/]",T,ו ה נשארים הסגרו ל חרב נוקמת נקם ברית  ו כן משפט ל כל באי,True,Damascus,True,biblical phrase,Lev 26:25 (ת),,0.0
+1614284,1QS,4,4,נשענת,nifal,T,C<N[,>L/ M<FH/ RB=/ XSD/,0,,-,מעשי אל ו נשענת ב רוב חסד׳ו ו רוח דעת ב כול מחשבת מעשה ו קנאת משפטי צדק ו מחשבת,False,Serekh,True,no match,,,
+1614463,1QS,4,12,נקמת,qal,T,NQM[,<BRH=/ >L/ >P/ NYX/ Z<WH/,1,Nahum 1:2 [>L/],-,כול הולכי ב׳ה ל רוב נגיעים ב יד כול מלאכי חבל ל שחת עולמים ב אף עברת אל נקמת ל זעות נצח ו חרפת,True,Serekh,True,chance,,shared אל only; נקמת may be the noun,0.0
+1614616,1QS,4,20,נחרצה,nifal,H,XRY[,BRR[ MCPV/ MW<D/,0,,-,מועד משפט נחרצה  ו אז יברר אל ב אמת׳ו כול מעשי גבר ו זקק ל׳ו מ בני איש ל התם כול רוח עולה מ תכמי,False,Serekh,True,no match,,,
+1614757,1QS,4,25,נחרצה,nifal,H,XRY[,<FH[ >L/ QY/ XDC/,2,Daniel 9:26 [QY/]; Daniel 11:36 [<FH[],HT,יתעב אמת  כיא בד ב בד שמ׳ן אל עד קץ נחרצה ו עשות חדשה  ו הואה ידע פעולת מעשי׳הן ל כול קצי,True,Serekh,True,biblical phrase,Isa 10:23; 28:22; Dan 9:27; 11:36 נֶחֱרָצָה (ה); Dan 9:26 נֶחֱרֶצֶת (ת),קץ נחרצה ועשות: MT has נֶחֱרָצָה (ה) in Isa 10:23; 28:22; Dan 9:27; 11:36 (with עשה) and נֶחֱרֶצֶת (ת) in Dan 9:26,0.0
+1616748,1QS,8,3,נשברה,nifal,H,CBR[,RWX/ RYH[ SMK[,2,Psalms 51:19 [RWX/]; Psalms 51:19 [RWX/],H,ל שמור אמונה ב ארץ ב יצר סמוך ו רוח נשברה ו ל רצת עוון ב עושי משפט,True,Serekh,True,biblical phrase,Ps 51:19 רוּחַ נִשְׁבָּרָה (ה),,0.0
+1618321,1QS,11,1,נשברה,nifal,H,CBR[,>JC/ RWX/,2,Psalms 51:19 [RWX/]; Psalms 51:19 [RWX/],H,ל תועי רוח בינה ו ל השכיל רוכנים ב לקח ו ל השיב ענוה ל נגד רמי רוח ו ב רוח נשברה ל אנשי,True,Serekh,True,biblical phrase,Ps 51:19 (ה),,0.0
+1618419,1QS,11,6,נסתרה,nifal,H,STR[,<JN/ >NWC/ D<H/ TWCJH/,0,,-,הביטה עינ׳י תושיה אשר נסתרה מ אנוש דעה ו מזמת ערמה מ בני אדם מקור צדקה ו מקוה,False,Serekh,True,no match,,,
+1620396,1QSb,5,24,נשגבה,nifal,H,FGB[,,0,,-,נשגבה  ו הייתה כ  ב עז פי׳כה ב שבט׳כה תחריב ארץ  ו ב רוח שפתי׳כה,False,1QSb,True,no match,,,
+1624429,1QM,5,12,חוברת,qal,T,XBR[,CNJM/ VHR/ ZHB/,3,Exodus 28:7 [CNJM/]; Exodus 39:4 [CNJM/]; Ezekiel 1:11 [CNJM/],-,זהב טהור חוברת ב׳ו ל שני עברי׳ו  ו ספות ישר אל ה ראוש שתים מ זה ו שתים מ זה  אורך ה כידן אמה,True,War,True,uncertain,,possible technical echo of Exod 28:7; 39:4 (חֹבְרֹת),0.0
+1624606,1QM,6,3,אוכלת,qal,T,>KL[,>WN=/ KTB[ XLL/ XRB/,3,Jeremiah 12:12 [XRB/]; Psalms 14:4 [>WN=/]; Psalms 53:5 [>WN=/],H,זיקי דם ל הפיל חללים ב אף אל  ו על ה זרק ה שלישי יכתובו שלהובת חרב אוכלת חללי און ב משפט אל ,True,War,True,generic phrase,Jer 12:12 חֶרֶב לַיהוָה אֹכְלָה (ה),"חרב … אוכלת: ""the sword devours"" is a common collocation (Deut 32:42; 2 Sam 2:26; Isa 1:20; Jer 46:10); Jer 12:12 has ה",0.0
+1626460,1QM,11,10,אוכלת,qal,T,>KL[,<MJR/ >C/ CWB[ RC<H/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT,ו כ שלישי מרכבותי׳ו ב ים סוף  ו נכאי רוח תבעיר כ לפיד אש ב עמיר אוכלת רשעה לוא תשוב עד,True,War,True,generic phrase,,אש … אוכלת; allusion to Zech 12:6 (finite verb),0.0
+1629301,1QHa,4,15,אוכלת,qal,T,>KL[,>HB[ BFR/ FN>[,3,Isaiah 65:4 [BFR/]; Isaiah 66:17 [BFR/]; Ecclesiastes 4:5 [BFR/],-, בים אוכלת בשר שנאי׳ה ב לוא,True,Hodayot,True,chance,,אכל + בשר: ordinary co-occurrence,0.0
+1631935,1QHa,9,25,נבעתה,nifal,H,B<T[,BJNH/ MCPV/ YDQ/,0,,-,בינה ו נבעתה ב משפטי צדק  מה אדבר ב לא נודע ו אשמיעה ב לא סופר  ה כול,False,Hodayot,True,no match,,,
+1632584,1QHa,10,28,אוכלת,qal,T,>KL[,<Y/ >C/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT,כלי מלחמות׳ם  ו יפרו חצים ל אין מרפא ו להוב חנית ב כ אש עצים אוכלת אוכלת עצים ,True,Hodayot,True,generic phrase,,אש אוכלת; MT has אֵשׁ אֹכְלָה 6x (ה) and אֹכֶלֶת 2x (ת),0.0
+1632585,1QHa,10,28,אוכלת,qal,T,>KL[,<Y/ >C/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT,כלי מלחמות׳ם  ו יפרו חצים ל אין מרפא ו להוב חנית ב כ אש עצים אוכלת אוכלת עצים ,True,Hodayot,False,no match,,,
+1633254,1QHa,11,30,אוכלת,qal,T,>KL[,>C/ RWM=/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT,ו ילכו נחלי בליעל על כול אגפי רום ב אש אוכלת ב כול שנאבי׳הם ל התם כול עץ לח,True,Hodayot,True,generic phrase,,אש אוכלת (copies 4Q428; 4Q432),0.0
+1633385,1QHa,11,37,נחרצה,nifal,H,XRY[,KLH=/,3,Isaiah 10:23 [KLH=/]; Isaiah 28:22 [KLH=/]; Daniel 9:27 [KLH=/],H,שמים תשוט ב תבל ו לא תשוב עד כלה ו נחרצה ל עד ו אפס כמו׳ה ,True,Hodayot,True,biblical phrase,Isa 10:23 כָלָה וְנֶחֱרָצָה (ה),,0.0
+1634592,1QHa,13,29,פורחת,qal,T,PRX[,QY/ TNJN/ XMH/,0,,-,לשון שקר כ חמת תנינים פורחת ל קצים  ו כ זוחלי עפר יורו ל חתוף מבלגות פתנים,False,Hodayot,True,no match,,,
+1634668,1QHa,13,33,יולדה,qal,H,JLD[,HMH[,0,,-,יולדה  ו יהם על׳י לב׳י  קדרות לבשתי ו לשונ׳י ל חך׳י תדבק  כי סבבו׳ני ב הוות לב׳ם ו יצר׳ם,False,Hodayot,True,no match,,,
+1635145,1QHa,14,21,בוערת,qal,T,B<R[,>C/ >JC/,8,Exodus 3:2 [>C/]; Deuteronomy 4:11 [>C/]; Deuteronomy 5:23 [>C/]; Deuteronomy 9:15 [>C/]; Jeremiah 7:18 [>C/],T,עולם ל אין הסר  ב שביבי נוגה׳ו יבערו כול בני עולה ו היה ל אש בוערת ב כול אנשי,True,Hodayot,True,generic phrase,,אש בוערת,0.0
+1635276,1QHa,14,28,נסשגבה,nifal,H,FGB[,<WZ[ PLJV=/ XWMH/,2,Isaiah 30:13 [XWMH/]; Proverbs 18:11 [XWMH/],H,כ בא ב עיר מצור ו נעוז ב חובמה נסשגבה עד פלט  ו אשענה ב אמת׳כה אל׳י כי אתה,True,Hodayot,True,biblical phrase,Isa 30:13; Prov 18:11 חוֹמָה נִשְׂגָּבָה (ה),,0.0
+1635511,1QHa,15,5,נשברת,nifal,T,CBR[,QNH/ ZRW</,0,,-, זרוע נשברת מ קני׳ה ו תטבע ב בבץ רגל׳י  שעו עינ׳י מ ראות,False,Hodayot,True,no match,,,
+1635612,1QHa,15,11,נסשגבה,nifal,H,FGB[,<Z/ KWN[ XWMH/,2,Isaiah 30:13 [XWMH/]; Proverbs 18:11 [XWMH/],H,לא החתה מ ברית׳כה  ו תשימ׳ני כ מגדל עוז כ חומה נסשגבה  ו תכן על סלע,True,Hodayot,True,biblical phrase,Isa 30:13; Prov 18:11 (ה),,0.0
+1638655,1QHa,20,12,נאמנה,nifal,H,>MN[,>L/ MMCLT/ PH/,1,Deuteronomy 7:9 [>L/],-,ממשלת׳ם ב תכון נאמנה מ פי אל  ו תעודת הווה ו היאה תהיה,True,Hodayot,True,chance,,shared אל only,0.0
+1638701,1QHa,20,15,נאמנה,nifal,H,>MN[,CM<[ NTN[ SWD/,2,Isaiah 33:16 [NTN[]; Proverbs 11:13 [SWD/],-,אשר נתתה ב׳י  ו נאמנה שמעתי ל סוד פלא׳כה  ב רוח קודש׳כה,True,Hodayot,True,chance,,shared סוד/נתן only,0.0
+1639280,1QHa,21,21,נפרשה,nifal,H,PRF[,CWXH/ RCT/ STR[,2,Hosea 5:1 [RCT/]; Proverbs 29:5 [RCT/],H, ה נפרשה רשת שוחה ו ב דרכי׳ה צמי אבדון ,True,Hodayot,True,biblical phrase,Hos 5:1 רֶשֶׁת פְּרוּשָׂה,model is qal passive (ה required); not a niphal model,0.0
+1663369,4Q169,f3_4iii,7,נפרדה,nifal,H,PRD[,<YH/ >BD[,0,,-,ה חלקות אשר תובד עצת׳ם ו נפרדה כנסת׳ם ו לא יוסיפו עוד ל תעות ה קהל ו פתאים,False,4Q169,True,no match,,,
+1663524,4Q169,f3_4iv,5,נעלמה,nifal,H,<LM[,RC</,0,,-,ו תהי נעלמה  פשר׳ו על רשעי אפרים ,False,4Q169,True,no match,,,
+1664719,4Q172,f4,4,בוערת,qal,T,B<R[,,0,,-, בוערת ו גם כ ,False,4Q172,True,no match,,,
+1665191,4Q174,f1_2i,12,נופלת,qal,T,NPL[,DWD==/ SKH/,1,"Amos 9:11 [DWD==/,SKH/]",T, ב ציון ב אחרית ה ימים כ אשר כתוב ו הקימותי את סוכת דויד ה נופלת היאה סוכת,True,4Q174,True,citation,Amos 9:11 הַנֹּפֶלֶת (ת),explicit citation (כתוב),0.0
+1666696,4Q176,f8_11,16,יושבת,qal,T,JCB[,FMX[ RWM[,2,Isaiah 6:1 [RWM[]; Lamentations 4:21 [FMX[],?, י ישמח ו ארים יושבת ,True,4Q176,True,chance,,,0.0
+1666752,4Q176,f14,7,אובדה,qal,H,>BD[,,0,,-, אובדה ל  ,False,4Q176,True,no match,,,
+1668133,4Q177,f12_13i,3,נבהלה,nifal,H,BHL[,M>D/ NPC/,0,,-, ו נפש׳י נבהלה מאד׳ה  ו עתה יהוה עד מתי חוננ׳י חלצ׳ה נפש׳י  למים על,False,4Q177,True,no match,,,
+1693807,4Q228,f1i,6,בוערת,qal,T,B<R[,>C/ >KL[ SWD/,8,Exodus 3:2 [>C/]; Deuteronomy 4:11 [>C/]; Deuteronomy 5:23 [>C/]; Deuteronomy 9:15 [>C/]; Jeremiah 7:18 [>C/],T, אש בוערת אוכלת ב סוד רשעה,True,4Q228,True,generic phrase,,אש בוערת אוכלת (one phrase; two tokens),0.0
+1693808,4Q228,f1i,6,אוכלת,qal,T,>KL[,>C/ B<R[ RC<H/ SWD/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT, אש בוערת אוכלת ב סוד רשעה,True,4Q228,True,generic phrase,,same phrase as the preceding token,0.0
+1694158,4Q238,f1,1,נתכת,nifal,T,NTK[,M>RH/,0,,-, מתלש נתכת מא ,False,4Q238,True,no match,,,
+1704683,4Q259,2,12,נשברה,nifal,H,CBR[,RWX/ RYH[,2,Psalms 51:19 [RWX/]; Psalms 51:19 [RWX/],H,ו רוח נשברה ו ל רצות עוון ב מעשי משפט ו צרת מצרף ו התהלך עם כול,True,Serekh,False,no match,,,
+1709403,4Q266,f6i,3,אוחזתה,qal,H,>XZ[,<WR=/ YR<T/,0,,-, צרעת היאה ה אוחזתה ב עור ה חי  ו כ משפט ה זה ,False,Damascus,True,no match,,,
+1709569,4Q266,f6i,12,יורדת,qal,T,JRD[,<LH[ RP>[,4,Genesis 28:12 [<LH[]; 1_Samuel 2:6 [<LH[]; 1_Samuel 10:8 [<LH[]; Job 7:9 [<LH[],-,על ה מיתות ו ה גיד נמלא דם ו רוח ה חיים עולה ו יורדת ב׳ו נרפא,True,Damascus,True,chance,,עולה ויורדת: ordinary pair,0.0
+1713373,4Q267,f9v,4,נאמנת,nifal,T,>MN[,>L/ BRJT/,2,"Deuteronomy 7:9 [>L/,BRJT/]; Psalms 89:29 [BRJT/]",T,יהודה  ו כול ה מתהלכים ב אלה ברית אל נאמנת,True,Damascus,True,uncertain,,parallel copies read ברית אל נאמנות (CD VII:5; XIV:2; 4Q269 f10ii:7); participle doubtful; Ps 89:29 has ת,1.0
+1714334,4Q269,f7,8,יורדת,qal,T,JRD[,<LH[ BFR/,4,Genesis 28:12 [<LH[]; 1_Samuel 2:6 [<LH[]; 1_Samuel 10:8 [<LH[]; Job 7:9 [<LH[],-,רוח ה חיים עולה ו יורדת ו ה בשר צמח נרפא ה נגע  טהורה,True,Damascus,False,chance,,copy of 4Q266 f6i:12 (same Damascus passage); in 4Q269 only the participle survives,1.0
+1724787,4Q299,f6ii,4,נסתרה,nifal,H,STR[,TMK[,0,,-,נסתרה מ כול תומכי ,False,4Q299,True,no match,,,
+1726771,4Q300,f1aii_b,5,נכחדת,nifal,T,KXD[,<WD/,0,,-,נכחדת  עוד לא תהיה ,False,4Q300,True,no match,,,
+1728314,4Q306,f2,5,הולכת,qal,T,HLK[,<JN/ TWRH/,1,Psalms 119:1 [TWRH/],-,עינים ה תורה הולכת ו מר ,True,4Q306,True,chance,,התורה הולכת ≠ Ps 119:1,0.0
+1749309,4Q368,f6,2,נשארה,nifal,H,C>R[,,0,,-, ה נשארה,False,4Q368,True,no match,,,
+1749573,4Q369,f1i,6,נחרצה,nifal,H,XRY[,MCPV/ QY/,1,Daniel 9:26 [QY/],T, משפט׳ו עד קץ משפט נחרצה,True,4Q369,True,biblical phrase,Isa 10:23; 28:22; Dan 9:27; 11:36 נֶחֱרָצָה (ה); Dan 9:26 נֶחֱרֶצֶת (ת),"MT has ה 4x, ת 1x (Dan 9:26); the scrolls follow the ה majority",0.0
+1750469,4Q372,f1,7,עומדת,qal,T,<MD[,GJ>/ GWJ/ JTD/,0,,-,ה גוים יתד עומדת ב גי ה חזון  ו יס  ציון ו יעשו  ו ישימו את,False,4Q372,True,no match,,,
+1752731,4Q377,f2ii,7,בעורה,qal,H,B<R[,>C/ M<L/ R>H[,8,Exodus 3:2 [>C/]; Deuteronomy 4:11 [>C/]; Deuteronomy 5:23 [>C/]; Deuteronomy 9:15 [>C/]; Jeremiah 7:18 [>C/],T,איש עם רע׳הו ו כ אשר ש  ר הרא׳נו ב אש בעורה מ מעל׳ה מ שמים  ,True,4Q377,True,generic phrase,,אש + בער; Sinai allusion (Deut 4:36; 5:23) with masc בֹּעֵר; the only biblical fsg with אש is Jer 20:9 בֹּעֶרֶת (ת),0.0
+1756527,4Q381,f46a+b,6,סוערת,qal,T,S<R[,JR>[ M<LL/ RWX/ ZNX[,0,,-,כ נדה תזנזח  ו רוח סוערת  מעליל׳ם ו יראי׳ך ל פני׳ך תמיד  קרנים קרנים,False,4Q381,True,no match,,,
+1758136,4Q382,f25,6,בוגדה,qal,H,BGD[,>HB[,0,,-, בוגדה ב ,False,4Q382,True,no match,,,
+1761276,4Q385a,f17a_eii,4,שכנה,qal,H,CKN[,>MWN==/ J>R=/ XLQ/,0,,-,היכן חלק׳ך אמון ה שכנה ב יארים,False,4Q385a,True,no match,,,
+1762042,4Q386,f1ii,10,בערת,qal,T,B<R[,>C/,8,Exodus 3:2 [>C/]; Deuteronomy 4:11 [>C/]; Deuteronomy 5:23 [>C/]; Deuteronomy 9:15 [>C/]; Jeremiah 7:18 [>C/],T,כ אש בערת כ  ,True,4Q386,True,biblical phrase,Jer 20:9 כְּאֵשׁ בֹּעֶרֶת (ת),"[כ א]ש בערת: probably Jer 20:9 כְּאֵשׁ בֹּעֶרֶת, with כ and א restored",1.0
+1765715,4Q393,f1ii_2,7,נשברה,nifal,H,CBR[,PNH/ RWX/,3,1_Kings 19:11 [PNH/]; Psalms 51:19 [RWX/]; Psalms 51:19 [RWX/],H,ו חטאים השב אלי׳ך  ו אל רוח נשברה מ ל פני׳ך תהדף על,True,4Q393,True,biblical phrase,Ps 51:19 (ה),,0.0
+1769609,4Q401,f14i,5,נכבדת,nifal,T,KBD[,>L/,0,,-, כיא נכבדת ב  אלי אלים ל ר ,False,4Q401,True,no match,,,
+1776366,4Q415,f2ii,5,אויבת,qal,T,,NPC/,0,,-,ו אויבת ל נפש׳ך ו ב ,False,4Q415,True,no match,,,
+1776659,4Q415,f11,11,נפרדה,nifal,H,PRD[,HRH[ LQX[,0,,-,ו אם נפרדה ב הרית׳כה קח מולדי׳ה ,False,4Q415,True,no match,,,
+1779190,4Q417,f2ii+23,4,נאספה,nifal,H,>SP[,BFR/ JD/ QPY[ RWX/,0,,-,אם יקפוץ יד׳ו ו נאספה רוח כול בשר  ,False,4Q417,True,no match,,,
+1783428,4Q418,f119,3,נולדת,nifal,T,JLD[,,0,,-, ב מצולה נולדת ,False,4Q418,True,no match,,,
+1789534,4Q424,f3,5,שומעת,qal,T,CM<[,>ZN/ SPR[,7,1_Samuel 3:11 [>ZN/]; 2_Kings 21:12 [>ZN/]; Isaiah 32:3 [>ZN/]; Jeremiah 19:3 [>ZN/]; Proverbs 15:31 [>ZN/],T,אשר לא תבר  כן דובר ל אזן אשר אינ׳נה שומעת ו מספר ל נם נרדם ב רוח ש  ,True,4Q424,True,generic phrase,Prov 20:12; 25:12; 15:31 אֹזֶן שֹׁמַעַת (ת),לאזן אשר איננה שומעת: negated relative; closer to a generic collocation than to Prov אֹזֶן שֹׁמַעַת,0.0
+1789554,4Q424,f3,6,נסתרה,nifal,H,STR[,KRH[ LB/ MXCBH/ XKMH/,0,,-,איש שמן לב אל תשלח ל כרות מחשבות כי נסתרה חכמת לב׳ו ו לוא ימשול ב׳ה ,False,4Q424,True,no match,,,
+1791853,4Q428,f5,4,אוכלת,qal,T,>KL[,>C/ RWM=/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT,נחלי בליעל על כול אגפי רום ב אש אוכלת ב כול שנאבי׳הם,True,Hodayot,False,no match,,,
+1792305,4Q428,f13,3,נסתרה,nifal,H,STR[,,0,,-, עפר תחה נה ו מלכדת נסתרה,False,Hodayot,True,no match,,,
+1792308,4Q428,f13,4,נפרשה,nifal,H,PRF[,CWXH/ NKH[ RCT/,2,Hosea 5:1 [RCT/]; Proverbs 29:5 [RCT/],H, ה נפרשה רשת שוחה ו ב דרכי׳ה צמי אבדון,True,Hodayot,False,no match,,,
+1792317,4Q428,f13,5,נפתחה,nifal,H,PTX[,DRK/,0,,-, נפתחה דרך  ים ל התהלך,False,Hodayot,True,no match,,,
+1793178,4Q429,f2,9,פורחת,qal,T,PRX[,QY/ TNJN/ XMH/,0,,-,כ חמת תנינים פורחת ל קצים  ו כ זוחלי,False,Hodayot,False,no match,,,
+1794243,4Q432,f6,4,אוכלת,qal,T,>KL[,>C/ RWM=/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT,ו ילכו נחלי בליעל על כול אגפי רום ב אש אוכלת ב כול שנאבי׳הם,True,Hodayot,False,no match,,,
+1796424,4Q437,f9,3,נתכת,nifal,T,NTK[,>L/ XMH/,1,Jeremiah 7:20 [XMH/],T, נתכת חמת אל על רוב טורד ,True,4Q437,True,biblical phrase,Jer 7:20 חֲמָתִי נִתֶּכֶת (ת),,0.0
+1803778,4Q491,f1_3,11,נצבה,nifal,H,NYB[,M<RKH/ MLXMH/,0,,-,ו ב עלות ה מערכה ה נצבה ל מלחמת ה יום ה הואה ל עבור ל כול   ה מלחמה יעמדו שלוש מערכות מערכה אחר מערכה ו רוח ישימו בין ה מערכות ו בין ה מערכות ,False,War,True,no match,,,
+1804437,4Q491,f8_10i,15,בוערת,qal,T,B<R[,>C/ MXCK/,8,Exodus 3:2 [>C/]; Deuteronomy 4:11 [>C/]; Deuteronomy 5:23 [>C/]; Deuteronomy 9:15 [>C/]; Jeremiah 7:18 [>C/],T, אש בוערת ב מחשכי אבדונים ב אבדוני שאול תוקד ל שרפת עולמים  פושעים,True,War,True,generic phrase,,אש בוערת,0.0
+1817325,4Q504,f4,21,בוערת,qal,T,B<R[,JDH[,0,,-, בוערת מודה ,False,4Q504,True,no match,,,
+1823193,4Q510,f2,4,בוערת,qal,T,B<R[,<WLM/ >C/,8,Exodus 3:2 [>C/]; Deuteronomy 4:11 [>C/]; Deuteronomy 5:23 [>C/]; Deuteronomy 9:15 [>C/]; Jeremiah 7:18 [>C/],T, אש עולמים בוערת ב סו ,True,4Q510,True,generic phrase,,אש בוערת,0.0
+1823965,4Q511,f16,3,אוכלת,qal,T,>KL[,<PR/ >C/ MWSD/,8,Exodus 24:17 [>C/]; Deuteronomy 4:24 [>C/]; Deuteronomy 9:3 [>C/]; Isaiah 29:6 [>C/]; Isaiah 30:27 [>C/],HT, אש אוכלת ב מוסדי עפר׳ו ,True,4Q511,True,generic phrase,,אש אוכלת; allusion to Deut 32:22 (finite verb),0.0
+1834311,4Q525,f6ii,3,מוהלת,qal,T,MHL[,JD<[ JY<[ RWX/,0,,-,דעת מ רוח מוהלת ע ,False,4Q525,True,no match,,,
+1834400,4Q525,f9,3,אוכלת,qal,T,>KL[,,0,,-, אוכלת ב לוא ,False,4Q525,True,no match,,,
+1857674,11Q5,18,11,נאמרה,nifal,H,>MR[,>KL[ CTH[ FB<==/,2,Ezekiel 36:13 [>KL[]; Daniel 7:5 [>KL[],-,זמרת׳ה  על אוכל׳םה ב שבע נאמרה ו על שתות׳מה ב חבר,True,11Q5,True,chance,,shared אכל only (Ezek 36:13; Dan 7:5),0.0
+1872736,11Q19,32,13,יורדת,qal,T,JRD[,KJWR/ MXLH==/ PCV[,0,,-,הולכת מ בית ה כיור ל מחלה יורדת ו פושטת אל תוך ה ארץ אשר,False,11Q19,True,no match,,,
+1872738,11Q19,32,13,פושטת,qal,T,PCV[,JRD[ MXLH==/ TWK/,0,,-,הולכת מ בית ה כיור ל מחלה יורדת ו פושטת אל תוך ה ארץ אשר,False,11Q19,True,no match,,,
+1875631,11Q19,46,15,יורדת,qal,T,JRD[,TWK/ Y>H=/,1,Ezekiel 32:25 [TWK/],-,אשר תהיה ה צואה יורדת אל תוכ׳מה ו לוא תהיה נראה ל כול רחוק,True,11Q19,True,chance,,shared תוך only,0.0
+1876157,11Q19,48,17,נושנת,nifal,T,JCN[,NTQ/ YR<T/,1,Leviticus 13:11 [YR<T/],T,ב נדת טמאת׳ם  ו ה צרוע אשר ב׳ו צרעת נושנת או נתק ו יטמא׳נו ה כוהן ,True,11Q19,True,biblical phrase,Lev 13:11 צָרַעַת נוֹשֶׁנֶת (ת),,0.0
+1880756,11Q19,65,3,רובצת,qal,T,RBY[,>M/ >PRX/,1,"Deuteronomy 22:6 [>M/,>PRX/]",T,אפרוחים או בצים ו ה אם רובצת על ה אפרוחים או על ה בצים,True,11Q19,True,biblical phrase,Deut 22:6 רֹבֶצֶת (ת),rewrites the law,0.0

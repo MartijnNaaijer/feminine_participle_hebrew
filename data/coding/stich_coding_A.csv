@@ -1,0 +1,40 @@
+﻿node,ref,code,ambiguous,alternative,note
+216593,Isaiah 13:8,internal,0,,stich כיולדה יחילון parallel to צירים וחבלים יאחזון
+218775,Isaiah 21:3,stich_end,0,,stich צירים אחזוני כצירי יולדה; next stich נעויתי משמע
+221429,Isaiah 29:6,stich_end,0,,verse end
+221484,Isaiah 29:8,stich_end,0,,end of the simile; כן יהיה begins the application
+222398,Isaiah 30:30,stich_end,0,,בזעף אף ולהב אש אוכלה | נפץ וזרם ואבן ברד
+222459,Isaiah 30:33,internal,0,,בה follows within the clause
+223102,Isaiah 33:14,stich_end,0,,מי יגור לנו אש אוכלה | מי יגור לנו מוקדי עולם
+223421,Isaiah 34:9,stich_end,0,,verse end
+225724,Isaiah 40:10,internal,0,,לו follows; stich וזרעו משלה לו
+226740,Isaiah 42:14,internal,0,,stich כיולדה אפעה
+228637,Isaiah 47:8,internal,0,,stich האמרה בלבבה
+230794,Isaiah 54:1,internal,1,subunit_end,כי רבים בני שוממה מבני בעולה: comparison inside one stich; could be split
+238113,Jeremiah 6:24,stich_end,0,,verse end
+241050,Jeremiah 12:12,stich_end,1,internal,כי חרב ליהוה אכלה | מקצה ארץ ועד קצה הארץ; or one long stich with adverbial
+245784,Jeremiah 22:23,stich_end,0,,verse end
+250309,Jeremiah 30:6,stich_end,0,,ידיו על חלציו כיולדה | ונהפכו כל פנים לירקון
+261217,Jeremiah 49:4,internal,0,,stich הבטחה באצרתיה
+261596,Jeremiah 49:24,stich_end,0,,verse end
+262674,Jeremiah 50:43,stich_end,0,,verse end
+291957,Hosea 4:16,subunit_end,1,stich_end,כי כפרה סררה | סרר ישראל: fronted comparison inside one stich
+292418,Hosea 7:4,internal,0,,stich כמו תנור בערה מאפה
+293860,Hosea 13:13,internal,0,,stich חבלי יולדה יבאו לו
+294462,Joel 2:5,internal,0,,קש follows; stich כקול להב אש אכלה קש
+300429,Micah 4:6,stich_end,1,subunit_end,אספה הצלעה | והנדחה אקבצה; or one stich of two sub-units
+300441,Micah 4:7,internal,0,,stich ושמתי את הצלעה לשארית
+300496,Micah 4:9,stich_end,0,,verse end
+300504,Micah 4:10,stich_end,0,,חולי וגחי בת ציון כיולדה | כי עתה תצאי
+300632,Micah 5:2,internal,0,,stich עד עת יולדה ילדה
+301272,Micah 7:10,internal,0,,stich האמרה אלי איו יהוה אלהיך
+301990,Nahum 3:8,internal,0,,stich הישבה ביארים
+303733,Zephaniah 2:15,internal,0,,stich האמרה בלבבה אני ואפסי עוד
+303755,Zephaniah 3:1,internal,0,,הוי מראה ונגאלה: first of a coordinated pair
+304067,Zephaniah 3:19,stich_end,1,subunit_end,והושעתי את הצלעה | והנדחה אקבץ; as Mic 4:6
+318348,Psalms 48:7,stich_end,0,,verse end
+329541,Psalms 107:9,stich_end,0,,כי השביע נפש שקקה | ונפש רעבה מלא טוב
+357667,Song of songs 1:6,internal,0,,stich שמני נטרה את הכרמים
+363741,Lamentations 1:11,stich_end,0,,verse end
+363780,Lamentations 1:13,stich_end,1,subunit_end,qinah line נתנני שממה | כל היום דוה
+363828,Lamentations 1:16,internal,0,,stich עיני עיני ירדה מים

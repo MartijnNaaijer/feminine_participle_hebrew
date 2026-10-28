@@ -1,0 +1,47 @@
+﻿node,R_pos,ambiguous,note,main_div
+95714,cf_preterminal,0,[יהוה אלהיך] [אש אכלה] [הוא]; אל קנא follows (BHSA separate clause),0
+98454,R_end,0,clause יהוה אלהיך הוא העבר לפניך אש אכלה; new clause הוא ישמידם,1
+129453,cf_other,0,[היא] [שפטה] [את ישראל] [בעת ההיא]: before two constituents,0
+167597,cf_preterminal,1,[ותשב] [תמר] [ושממה] [בית אבשלום אחיה]; ושממה may also be read as a separate circumstantial clause,1
+216593,cf_initial,0,[כיולדה] [יחילון],1
+218775,R_end,0,,1
+221429,R_end,0,,1
+221484,R_end,0,,1
+222398,list_item,0,list בזעף אף ולהב אש אוכלה | נפץ וזרם ואבן ברד: ends the first group,1
+222459,cf_preterminal,0,[נשמת יהוה] [כנחל גפרית] [בערה] [בה],0
+223102,R_end,0,parallel clause מי יגור לנו מוקדי עולם follows,1
+223421,R_end,0,,1
+225724,cf_preterminal,0,[זרעו] [משלה] [לו],0
+226740,cf_initial,0,[כיולדה] [אפעה],0
+228637,not_cf,0,appositive to עדינה; introduces speech; complement בלבבה follows within the constituent,0
+230794,cf_preterminal,0,[רבים] [בני שוממה] [מבני בעולה],1
+236129,cf_initial,0,[הלכה] [היא] [על כל הר גבה ...],0
+236181,cf_preterminal,1,"בגדה + apposition יהודה אחותה (as 3:11), or one NP (not_cf); mahapakh",0
+236238,cf_preterminal,0,"[צדקה נפשה] [משבה ישראל] [מבגדה] [יהודה]: substantival epithet with יהודה as terminal apposition (cf. Revell 2012, 218: nominal additions after pause)",1
+238113,R_end,0,,1
+241050,cf_preterminal,0,[חרב ליהוה] [אכלה] [מקצה ארץ ועד קצה הארץ],1
+245784,R_end,0,,1
+250309,R_end,0,,1
+261217,not_cf,0,appositive to הבת השובבה; complement באצרתיה follows; introduces speech מי יבוא אלי,0
+261596,R_end,0,,1
+262674,R_end,0,,1
+291957,cf_initial,0,[כפרה סררה] [סרר] [ישראל],1
+292418,cf_preterminal,1,[כמו תנור] [בערה] [מאפה] if בערה is read as a separate predicate (BHSA splits here); else not_cf inside the comparative phrase. Penultimate (pausal-type) stress,1
+293860,cf_initial,0,[חבלי יולדה] [יבאו] [לו],1
+294462,not_cf,0,inside [כקול להב אש אכלה קש]; object קש follows,0
+300429,R_end,0,MT order: ביום ההוא נאם יהוה אספה הצלעה (BHSA splits the clause around the formula); the clause ends at הצלעה,1
+300441,cf_preterminal,0,[ושמתי] [את הצלעה] [לשארית],1
+300496,R_end,0,,1
+300504,R_end,0,MT order חולי וגחי בת ציון כיולדה,1
+300632,not_cf,0,matrix perspective: inside [עד עת יולדה ילדה] (asyndetic relative after עת); not at a constituent end of the matrix clause,0
+301272,not_cf,0,appositive to איבתי; complement אלי follows; introduces speech,0
+301990,not_cf,0,appositive to נא אמון; complement ביארים follows,0
+303733,not_cf,0,appositive; complement בלבבה follows; introduces speech,0
+303755,list_item,1,exclamation הוי + list מראה ונגאלה העיר היונה: ends the first item of a coordinated pair,1
+304067,R_end,0,,1
+318348,R_end,0,,1
+329541,R_end,0,end of the first of two parallel clauses,1
+357667,cf_preterminal,1,[שמני] [נטרה] [את הכרמים]: coded like Judg 4:4 and Lam 1:16 (participle + object as separate constituents); munaḥ,0
+363741,R_end,0,,1
+363780,cf_other,1,[נתנני] [שממה] [כל היום] [דוה]: before two constituents if one clause; BHSA splits it,1
+363828,cf_preterminal,0,[עיני עיני] [ירדה] [מים],0

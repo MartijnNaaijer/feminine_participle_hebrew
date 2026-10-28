@@ -1,0 +1,42 @@
+﻿node,check,model,note,context_restored
+1857674,chance,,shared אכל only (Ezek 36:13; Dan 7:5),0
+1633385,biblical phrase,Isa 10:23 כָלָה וְנֶחֱרָצָה (ה),,0
+1635276,biblical phrase,Isa 30:13; Prov 18:11 חוֹמָה נִשְׂגָּבָה (ה),,0
+1635612,biblical phrase,Isa 30:13; Prov 18:11 (ה),,0
+1638655,chance,,shared אל only,0
+1638701,chance,,shared סוד/נתן only,0
+1639280,biblical phrase,Hos 5:1 רֶשֶׁת פְּרוּשָׂה,model is qal passive (ה required); not a niphal model,0
+1614757,biblical phrase,Isa 10:23; 28:22; Dan 9:27; 11:36 נֶחֱרָצָה (ה); Dan 9:26 נֶחֱרֶצֶת (ת),קץ נחרצה ועשות: MT has נֶחֱרָצָה (ה) in Isa 10:23; 28:22; Dan 9:27; 11:36 (with עשה) and נֶחֱרֶצֶת (ת) in Dan 9:26,0
+1616748,biblical phrase,Ps 51:19 רוּחַ נִשְׁבָּרָה (ה),,0
+1618321,biblical phrase,Ps 51:19 (ה),,0
+1749573,biblical phrase,Isa 10:23; 28:22; Dan 9:27; 11:36 נֶחֱרָצָה (ה); Dan 9:26 נֶחֱרֶצֶת (ת),"MT has ה 4x, ת 1x (Dan 9:26); the scrolls follow the ה majority",0
+1765715,biblical phrase,Ps 51:19 (ה),,0
+1876157,biblical phrase,Lev 13:11 צָרַעַת נוֹשֶׁנֶת (ת),,0
+1713373,uncertain,,parallel copies read ברית אל נאמנות (CD VII:5; XIV:2; 4Q269 f10ii:7); participle doubtful; Ps 89:29 has ת,1
+1796424,biblical phrase,Jer 7:20 חֲמָתִי נִתֶּכֶת (ת),,0
+1752731,generic phrase,,אש + בער; Sinai allusion (Deut 4:36; 5:23) with masc בֹּעֵר; the only biblical fsg with אש is Jer 20:9 בֹּעֶרֶת (ת),0
+1875631,chance,,shared תוך only,0
+1880756,biblical phrase,Deut 22:6 רֹבֶצֶת (ת),rewrites the law,0
+1629301,chance,,אכל + בשר: ordinary co-occurrence,0
+1632584,generic phrase,,אש אוכלת; MT has אֵשׁ אֹכְלָה 6x (ה) and אֹכֶלֶת 2x (ת),0
+1633254,generic phrase,,אש אוכלת (copies 4Q428; 4Q432),0
+1635145,generic phrase,,אש בוערת,0
+1624429,uncertain,,possible technical echo of Exod 28:7; 39:4 (חֹבְרֹת),0
+1624606,generic phrase,Jer 12:12 חֶרֶב לַיהוָה אֹכְלָה (ה),"חרב … אוכלת: ""the sword devours"" is a common collocation (Deut 32:42; 2 Sam 2:26; Isa 1:20; Jer 46:10); Jer 12:12 has ה",0
+1626460,generic phrase,,אש … אוכלת; allusion to Zech 12:6 (finite verb),0
+1614463,chance,,shared אל only; נקמת may be the noun,0
+1665191,citation,Amos 9:11 הַנֹּפֶלֶת (ת),explicit citation (כתוב),0
+1666696,chance,,,0
+1693807,generic phrase,,אש בוערת אוכלת (one phrase; two tokens),0
+1693808,generic phrase,,same phrase as the preceding token,0
+1709569,chance,,עולה ויורדת: ordinary pair,0
+1714334,chance,,copy of 4Q266 f6i:12 (same Damascus passage); in 4Q269 only the participle survives,1
+1728314,chance,,התורה הולכת ≠ Ps 119:1,0
+1762042,biblical phrase,Jer 20:9 כְּאֵשׁ בֹּעֶרֶת (ת),"[כ א]ש בערת: probably Jer 20:9 כְּאֵשׁ בֹּעֶרֶת, with כ and א restored",1
+1789534,generic phrase,Prov 20:12; 25:12; 15:31 אֹזֶן שֹׁמַעַת (ת),לאזן אשר איננה שומעת: negated relative; closer to a generic collocation than to Prov אֹזֶן שֹׁמַעַת,0
+1804437,generic phrase,,אש בוערת,0
+1823193,generic phrase,,אש בוערת,0
+1823965,generic phrase,,אש אוכלת; allusion to Deut 32:22 (finite verb),0
+1607086,biblical phrase,Lev 26:25 חֶרֶב נֹקֶמֶת נְקַם־בְּרִית (ת),,0
+1608869,citation,Amos 9:11 (ת),explicit citation (אמר),0
+1612102,biblical phrase,Lev 26:25 (ת),,0
