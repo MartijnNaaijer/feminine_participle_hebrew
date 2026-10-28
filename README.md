@@ -79,3 +79,7 @@ All hand coding was done by Claude. A second Claude pass shows that the coding i
 | 16 | `hexapla_check.py` | MT csv, Hexapla API (network) | `data/hexapla_fsg.csv` |
 
 `mdtable.py` is a helper module and is not run on its own.
+
+## License
+
+The scripts and data in this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0); see `LICENSE`. This does not cover the external sources listed above, which keep their own licenses.
